@@ -49,6 +49,6 @@
     <string id="xzzSaN4b" text="Ожидаемо: {OVERALL_EXPECTED_DENARS}"/>
     <string id="yF5fpwNE" text="Всего: {TOTAL}"/>
     <string id="YgyHVu8S" text="Продан"/>
-    <string id="deleteaction" text="Delete"/>
+    <string id="deleteaction" text="Удалить"/>
   </strings>
 </base>

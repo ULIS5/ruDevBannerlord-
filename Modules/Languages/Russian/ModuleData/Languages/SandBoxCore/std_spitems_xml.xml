@@ -964,37 +964,37 @@
     <string id="9j9fb5pR" text="Позолоченный шлем с боковинами"/>
     <string id="89bCqb0Z" text="Турнир по плетеной площади Shield"/>
     <string id="AZg2woNV" text="Северный круглый спарринг-щит"/>
-    <string id="cDetN1Ao" text="Makeshift Kite Sparring Shield"/>
+    <string id="cDetN1Ao" text="Временный Щит Спарринг Кайта"/>
     <string id="lW3smDRu" text="Kite Sparring Shield"/>
     <string id="SRWJ8waf" text="Южный круглый спарринг-щит"/>
     <string id="VluRLqn8" text="Западный спарринг-щит всадника"/>
-    <string id="06Qoh8AO" text="Gold Bound Short Warsword"/>
+    <string id="06Qoh8AO" text="Короткий золотой военный меч"/>
     <string id="0lNp3f76" text="Engraved Angular Kaskara"/>
     <string id="bohbzGjg" text="Decorated Scimitar With Wide Grip"/>
-    <string id="Bv068ziR" text="Northern Decorated Mail"/>
-    <string id="camFHYrN" text="Leather Armor with Iron Plates"/>
-    <string id="Cr5ak47X" text="Decorated Broadsword"/>
+    <string id="Bv068ziR" text="Северный Украшенный Mail"/>
+    <string id="camFHYrN" text="Кожаный доспех с железными пластинами"/>
+    <string id="Cr5ak47X" text="Украшенный Палаш"/>
     <string id="EezWSI6v" text="Fortified Mercenary Armor"/>
     <string id="hunterhorse" text="Hunter"/>
     <string id="iCy5h0Y9" text="Northern Lamellar Over Hauberk"/>
     <string id="IL9lsYBs" text="Northern Brigandine Over Hauberk"/>
     <string id="JzZJpbTB" text="Reinforced Targe"/>
     <string id="mmc3tBVN" text="Sharpened Spatha Blade With Ring Pommel"/>
-    <string id="MnmUBlbL" text="Targe"/>
-    <string id="Mt24PoKF" text="Northern Short Lamellar Vest"/>
+    <string id="MnmUBlbL" text="Малый щит"/>
+    <string id="Mt24PoKF" text="Северный короткий ламеллярный жилет"/>
     <string id="myXODDHv" text="Fullered Arming Sword Blade With Crescent Guard"/>
     <string id="ojhEwC8M" text="Northern Brass Lamellar Over Mail"/>
     <string id="przGGaVm" text="Bronze Reinforced Highland Large Shield"/>
     <string id="QA5zGCKf" text="Decorated Fullered Sword"/>
-    <string id="steppebowitem" text="Steppe Bow"/>
-    <string id="sturgianhunterhorse" text="Sturgian Hunter"/>
+    <string id="steppebowitem" text="Степной лук"/>
+    <string id="sturgianhunterhorse" text="Стурджанский Охотник"/>
     <string id="tpUzcdY6" text="Tall Gripped Ild Sword"/>
     <string id="UEestBsE" text="Northern Bronze Scale Vest"/>
     <string id="uHIVkxVt" text="Northern Bronze Scale Vest Over Gambeson"/>
     <string id="vsI4M5oq" text="Iron Reinforced Highland Large Shield"/>
-    <string id="wAcc9SX4" text="Highland Large Shield"/>
+    <string id="wAcc9SX4" text="Хайленд Большой Щит"/>
     <string id="WUasz2kP" text="Highland Fine Two Handed Sword"/>
-    <string id="zaajJhvz" text="Gold Engraved Arming Sword With Engraved Guard"/>
-    <string id="zvrxBeqB" text="Northern Decorated Hauberk"/>
+    <string id="zaajJhvz" text="Золотой Меч с выгравированной гвардией"/>
+    <string id="zvrxBeqB" text="Северный украшенный хауберк"/>
   </strings>
 </base>

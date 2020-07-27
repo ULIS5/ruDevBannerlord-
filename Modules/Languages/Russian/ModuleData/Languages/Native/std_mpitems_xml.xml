@@ -674,9 +674,9 @@
     <string id="zZ2G7uIO" text="Округлый Шлем с Кольчугой"/>
     <string id="iE9JNuZI" text="Круглый степной щит"/>
     <string id="28KBiS2H" text="Северные пластинчатые плечи"/>
-    <string id="courserhorse" text="Courser"/>
-    <string id="hunterhorse" text="Hunter"/>
-    <string id="MnmUBlbL" text="Targe"/>
-    <string id="sZsOeSQ4" text="Cavalry Menavlion"/>
+    <string id="courserhorse" text="Рысак"/>
+    <string id="hunterhorse" text="Охотник"/>
+    <string id="MnmUBlbL" text="Малый круглый щит"/>
+    <string id="sZsOeSQ4" text="Кавалерия Menavlion"/>
   </strings>
 </base>
