@@ -1225,7 +1225,7 @@
     <string id="FLa5OuyK" text="Wanderer" />
     <string id="fLaRz2SM" text="Deflect" />
     <string id="FLxu1bc0" text="Infantry troops in the formation you are leading increase their damage against mounts with polearms by 30%." />
-    <string id="fMekM2UH" text="{HIDEOUT_TEXT}. You can not attack since your wounds do not allow you." />
+    <string id="fMekM2UH" text="{HIDEOUT_DESCRIPTION}. You can not attack since your wounds do not allow you." />
     <string id="fMh5KZfk" text="There is no need for us, let's go." />
     <string id="FmIIQEQD" text="{HERO.NAME} has died." />
     <string id="FmjZfigu" text="Yes commander, I have brought your grain, livestock and wine as you requested." />
@@ -2999,7 +2999,7 @@
     <string id="xbal9bvg" text="Increase your Vigor Attribute by 1." />
     <string id="XbphYvnU" text="Very well. I believe in doing things according to the old ways. Before our men meet, let's you and I fight in honorable single combat. Draw your sword." />
     <string id="XbQFAKUz" text="{PRISONER_LORD.LINK_AND_FACTION} has died while being held captive by the {CAPTURER_FACTION}." />
-    <string id="xbVCRbUu" text="You have hunted {CURRENT_COUNT}/{TOTAL_COUNT} parties of {BRIGAND_TYPE}" />
+    <string id="xbVCRbUu" text="You have hunted {CURRENT_COUNT}/{TOTAL_COUNT} parties of outlaws" />
     <string id="xbvei0Cb" text="Feudal Inheritance" />
     <string id="XCJGl82o" text="Do you think you can pull one over on me? Now hand over the weapons!" />
     <string id="xCmSqbNR" text="I need some information about this town. Can you help?" />
