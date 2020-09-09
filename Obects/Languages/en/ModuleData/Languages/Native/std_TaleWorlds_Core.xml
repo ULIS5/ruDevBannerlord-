@@ -15,6 +15,7 @@
     <string id="azjMBa86" text="Fine Steel" />
     <string id="Bn7IsMpu" text="INT" />
     <string id="bVD9j0wI" text="Physical fitness, speed and balance." />
+    <string id="controlskill" text="Control" />
     <string id="d2ApwXJr" text="END" />
     <string id="EGeY1gfs" text="Charm" />
     <string id="eoLbkhsY" text="Mastery of fighting with two-handed weapons of average length such as bigger axes and swords." />
@@ -74,6 +75,5 @@
     <string id="YO5LUfiO" text="Cunning is the ability to predict what other people will do, and to outwit their plans." />
     <string id="YWkdD7Ki" text="Vigor" />
     <string id="ZBmz4niK" text="and" />
-    <string id="zfRqM4mr" text="Control" />
   </strings>
 </base>

@@ -45,7 +45,7 @@
     <string id="Il7C9LQG" text="You can move your character:{newline}- Forwards with [W]{newline}- Backwards with [S]{newline}- Left with [A]{newline}- Right with [D]{newline}{newline}Try them all now!" />
     <string id="JDtbzwB0" text="Nusun" />
     <string id="jLWPSiOR" text="Speak to the Headman" />
-    <string id="jWvle1tC" text="Finish the track and hit targets as many as you can ({HIT} / {ALL}))" />
+    <string id="jWvle1tC" text="Finish the track and hit targets as many as you can ({HIT} / {ALL})" />
     <string id="K0f6WLjV" text="To leave a mission, you can hold down the Tab key.{newline}{newline}This will return you to the settlement menu where you can purchase supplies and hire recruits." />
     <string id="KiJd6Xik" text="Movement" />
     <string id="KUEHAD4U" text="Quests" />
@@ -62,7 +62,7 @@
     <string id="MUEaqlix" text="Beat veteran trainer" />
     <string id="NWxC3CbS" text="Fodor" />
     <string id="OA9bQ8QJ" text="Alea" />
-    <string id="odbkXZkz" text="Moving your party is done by clicking on the map. This will leave a mark on the target location - unless you have clicked on inaccessible areas such as mountains or sea.{newline}{newline}Let’s set off to {TUTORIAL_SETTLEMENT_NAME}!" />
+    <string id="odbkXZkz" text="Moving your party is done by clicking on the map. This will leave a mark on the target location - unless you have clicked on inaccessible areas such as mountains or sea.{newline}{newline}Let's set off to {TUTORIAL_SETTLEMENT_NAME}!" />
     <string id="OFNEE8Xr" text="You can tell your men to charge by opening the movement orders with &quot;F1&quot; and choosing charge with &quot;F3&quot;." />
     <string id="oj7B1GOT" text="Entering Settlements" />
     <string id="OJmYUcaU" text="With Sword" />

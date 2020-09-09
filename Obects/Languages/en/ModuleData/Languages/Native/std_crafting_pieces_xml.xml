@@ -89,7 +89,7 @@
     <string id="89QyC7eD" text="Narrow Northern Guard" />
     <string id="8gW1o7iH" text="Western Lobed Pommel" />
     <string id="8OaZSfaZ" text="Split Rough Leather Arming Sword Grip" />
-    <string id="8olqutaL" text="Northern Spilt Two Handed Grip" />
+    <string id="8olqutaL" text="Northern Split Two Handed Grip" />
     <string id="8S6ZYPFD" text="Round Bitted Fine Steel Hatchet Head" />
     <string id="8T7gNbfM" text="Drilled Wide Leaf Shaped Spear Head" />
     <string id="8x9klENe" text="Segmented Riveted Shaft Reinforcement" />
@@ -321,7 +321,6 @@
     <string id="JanWod6k" text="Narrow Warsword Guard" />
     <string id="JbP7zdes" text="Cusped Southern Guard" />
     <string id="JCYmlrKF" text="Steel Reinforced Mace Handle" />
-    <string id="JdboLXbG" text="Hammer Head" />
     <string id="JfRydy7M" text="Ridged Cleaver Guard" />
     <string id="jfyCVJya" text="Darkened Steel Two Handed Grip" />
     <string id="JIj91e96" text="Bound Hide Two Handed Grip" />
@@ -369,7 +368,7 @@
     <string id="ldvppRXj" text="Patterned Pommel" />
     <string id="LEdJzFrZ" text="Bevelled Angular One Handed Grip" />
     <string id="lF10mZnb" text="Wire Wrapped One Handed Grip" />
-    <string id="LFfUtZrT" text="Hammmer Head" />
+    <string id="LFfUtZrT" text="Hammer Head" />
     <string id="Lh1E9EsS" text="Imperial Steel Reinforced Two Handed Grip" />
     <string id="lLZfWq7i" text="Bottleneck Desert Grip" />
     <string id="lmxaWsmn" text="Wrapped Leather Long Two Handed Grip" />
@@ -396,7 +395,7 @@
     <string id="MCRppfbZ" text="Pine Javelin Shaft" />
     <string id="mcYSvJfA" text="Tree Branch" />
     <string id="MDL2CcCH" text="Weighted Long Thorns" />
-    <string id="MGD7zTLf" text="Faceted Wheek Pommel" />
+    <string id="MGD7zTLf" text="Faceted Wheel Pommel" />
     <string id="Mh5MDpsk" text="Crushed Leather Southern Two Handed Grip" />
     <string id="MJRzaazz" text="Steel Bound Plated Two Handed Grip" />
     <string id="MKtMbBJD" text="Tall Eastern One Handed Grip" />
@@ -465,6 +464,7 @@
     <string id="PbxZzhZx" text="Narrow Seax Guard" />
     <string id="PjMeZcwO" text="Lipped Dagger Guard" />
     <string id="pkmy6zB2" text="Southern Star Guard" />
+    <string id="PmPxx2gK" text="Bent Razor Head" />
     <string id="pocRP9dq" text="Long Ash Staff" />
     <string id="PQ8rR13R" text="Long Fine Steel Scimitar Blade" />
     <string id="PqoJ1ZeB" text="Decorated Sabre Blade" />
@@ -613,6 +613,7 @@
     <string id="WXBkfAbb" text="Embroiled Rectangular Northern Dagger Guard" />
     <string id="WxnqOG8s" text="Broad Concave Guard" />
     <string id="wXUjru6o" text="Knobbed Wide Sabre Guard" />
+    <string id="X1FY4VYe" text="Smith Hammer Head" />
     <string id="X7OrRebK" text="Narrow Sparth Blade" />
     <string id="xb6e2YaV" text="Eastern Simple Oval Dagger Guard" />
     <string id="XbaFle0M" text="Eastern Double Spear Wings" />
@@ -635,7 +636,6 @@
     <string id="Y4tIQnS4" text="Short Simple Spear Head" />
     <string id="y5A3HGua" text="Fine Steel Paramerion Blade" />
     <string id="ybjDbw8p" text="Long Oaken Mace Handle" />
-    <string id="ybk4YYeV" text="Drilled One Handed Axe Head" />
     <string id="yD9v5GS0" text="Decorated Pine Shaft" />
     <string id="YDG2spCf" text="Eastern Leather Noble Grip" />
     <string id="yFm0f44p" text="Pointed Western Guard" />
@@ -644,7 +644,7 @@
     <string id="yilLfxCc" text="Lipped Guard" />
     <string id="ykTYTbek" text="Throwing Knife Blade" />
     <string id="YkWqmDEK" text="Broad Falchion Blade Head" />
-    <string id="YKXNxxvY" text="Nothern Two Handed Grip Northern" />
+    <string id="YKXNxxvY" text="Nothern Two Handed Grip" />
     <string id="ylUAAsQt" text="Rough Leather Wrapped One Handed Grip" />
     <string id="yMWzpgjz" text="Thread Wrapped Angular Two Handed Grip" />
     <string id="YQLEkXb7" text="Singular Hook Wing" />
@@ -672,7 +672,7 @@
     <string id="zKaNmT8r" text="Half Moon Dagger Guard" />
     <string id="ZKrpvDu6" text="Half Wrapped Steel Reinforced Bastard Sword Grip" />
     <string id="ZKsIpbg6" text="Half Leather Covered Wire Bound Two Handed Grip" />
-    <string id="ZmFx0XvN" text="Northern Spilt One Handed Grip" />
+    <string id="ZmFx0XvN" text="Northern Split One Handed Grip" />
     <string id="Zmtfwmh1" text="Tapered Thin Dagger Guard" />
     <string id="zoQhOBku" text="Round Spiked Pommel" />
     <string id="zoxF4ikz" text="Long Ash Handle With Leather Wrapping" />

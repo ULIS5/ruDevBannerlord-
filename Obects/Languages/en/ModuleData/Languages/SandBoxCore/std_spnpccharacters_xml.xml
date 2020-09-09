@@ -14,7 +14,6 @@
     <string id="275LD0Gh" text="Shop Worker" />
     <string id="2gUjKT5H" text="Battanian Horseman" />
     <string id="2HDPaohZ" text="Expert Forester" />
-    <string id="2w6jXVzJ" text="Battania preset" />
     <string id="3lNtvh9W" text="Bounty Hunter" />
     <string id="3VosbFR0" text="Vlandian Champion" />
     <string id="4BxUa4Sr" text="Aserai Skirmisher" />
@@ -47,7 +46,7 @@
     <string id="ac8MZYne" text="Battanian Hero" />
     <string id="acubGB3g" text="Vlandian Hardened Crossbowman" />
     <string id="afhXdjBU" text="Nomad" />
-    <string id="AlmaRAib" text="RuralNotableNotary" />
+    <string id="AlmaRAib" text="Rural Notable Notary" />
     <string id="AloMryIU" text="Vlandian Light Cavalry" />
     <string id="AoFZUbun" text="Aserai Vanguard Faris" />
     <string id="arb5nRri" text="Aserai Tribesman" />
@@ -60,9 +59,8 @@
     <string id="BBJKgKj2" text="Sturgian Recruit" />
     <string id="BbTpfJ7G" text="Dranton" />
     <string id="BC5YGna3" text="Lake Rat Wrecker " />
-    <string id="bFyidmyK" text="Sturgia preset" />
     <string id="bHx8jaeI" text="Warrior" />
-    <string id="bLMGbLF8" text="PreacherNotary" />
+    <string id="bLMGbLF8" text="Preacher Notary" />
     <string id="bLq2HXMo" text="Imperial Veteran Caravan Guard" />
     <string id="BmYpwIYi" text="Battania Peasant" />
     <string id="bNnQt4jN" text="Blacksmith" />
@@ -95,7 +93,6 @@
     <string id="DNIa6a5p" text="Vlandian Militia Veteran Archer" />
     <string id="DNsbKR7B" text="Battanian Wood Runner" />
     <string id="DNTUqbGo" text="Xerina" />
-    <string id="DvHR91Ca" text="Khuzait preset" />
     <string id="e8qbF7Ey" text="Imperial Menavliaton" />
     <string id="ECxiXTbF" text="Artisan Notary" />
     <string id="ehACDRBk" text="Hidden Pawn" />
@@ -128,7 +125,6 @@
     <string id="HsboF2mR" text="Imperial Militia Veteran Archer" />
     <string id="HZRKBDyB" text="Beggar" />
     <string id="i5DfUz6D" text="Battanian Militia Veteran Archer" />
-    <string id="i5QgQbRi" text="Imperial Soldier" />
     <string id="ieiqOaZp" text="Archer" />
     <string id="IfjWyWjc" text="Imperial Infantryman" />
     <string id="IHczn7ti" text="Battanian Highborn Warrior" />
@@ -225,7 +221,6 @@
     <string id="RYP9hzIy" text="Watchman" />
     <string id="s3IJIFUw" text="Imperial Recruit" />
     <string id="S6BosJUq" text="Recruit Eleftheroi" />
-    <string id="S8ElYRrb" text="Aserai preset" />
     <string id="S9z09NaN" text="Veteran Borrowed Troop" />
     <string id="SAILNYbu" text="Vlandian Infantry" />
     <string id="SaqVvzyV" text="Mercenary Cavalry" />
@@ -290,7 +285,6 @@
     <string id="yG42k5GC" text="Aserai Caravan Guard" />
     <string id="YGexslSX" text="Skolder Veteran Brotva" />
     <string id="yhBagy1Y" text="Aserai Archer" />
-    <string id="YIuBzk88" text="Regular Fighter" />
     <string id="yMqWnBfT" text="Battanian Veteran Falxman" />
     <string id="yPF32fbh" text="Vlandian Footman" />
     <string id="yrGYZsQ7" text="Imperial Veteran Infantryman" />

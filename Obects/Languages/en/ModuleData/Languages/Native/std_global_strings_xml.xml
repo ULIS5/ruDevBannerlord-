@@ -130,6 +130,7 @@
     <string id="cAkgnVr5" text="Num Lock" />
     <string id="CbwmI1JY" text="Enables the depth of field." />
     <string id="combatkick" text="Kick / Bash" />
+    <string id="controlgamekey" text="Control" />
     <string id="cp80Mq2W" text=";" />
     <string id="Crf6Z1S5" text="Page Up" />
     <string id="CsEtp6Az" text="Group 3 Hear" />
@@ -294,6 +295,7 @@
     <string id="MkKL3Y4P" text="Numpad 7" />
     <string id="mLtHlKzD" text="Right Alt" />
     <string id="MNsKxGzK" text="Texture Streaming Budget" />
+    <string id="mS1cpD6w" text="Enable mouse while scoreboard is open." />
     <string id="mueocuFG" text="Show Indicators" />
     <string id="mWnA4X5D" text="Select Order 6" />
     <string id="MXHkvySm" text="F7" />
@@ -326,6 +328,7 @@
     <string id="PADeKaAu" text="Map Context Menu" />
     <string id="PksJtzwJ" text="Space" />
     <string id="Pkw17hO0" text="Combat Speed" />
+    <string id="PmbKYDON" text="Cheer" />
     <string id="pnEeRPAk" text="Group 7 Hear" />
     <string id="pNocZkrx" text="Enable Damage Taken Visuals" />
     <string id="PPFFxlsX" text="Choose how to perform blocks." />
@@ -369,6 +372,7 @@
     <string id="rYCYUZu5" text="Group 5 Hear" />
     <string id="s4r1xdg0" text="Group 6 Hear" />
     <string id="s533kEjf" text="Music Volume" />
+    <string id="s5EnYLUp" text="Cheer on click. Open Cheer wheel on hold." />
     <string id="s6qTeIw1" text="Set sensitivity for mouse movement and camera control." />
     <string id="s7yWjpeB" text="Selected Adapter" />
     <string id="sAa2SIgO" text="You can switch between different mix modes better suited to your speaker configuration." />
@@ -424,6 +428,7 @@
     <string id="urSa4wQG" text="Show Banners On Friendly Troops" />
     <string id="uRXlSUVh" text="N" />
     <string id="uSGPBRFS" text="Zoom" />
+    <string id="USKys6FV" text="Show Mouse" />
     <string id="UTU6yVsp" text="Resume time in campaign map." />
     <string id="uUHUfeQr" text="Select Group 6" />
     <string id="UwJIMaRi" text="Shader Quality" />
@@ -509,7 +514,6 @@
     <string id="ZaaPPemL" text="SelectOrder8" />
     <string id="ZeIsxhk4" text="Sets the shadow filtering technique." />
     <string id="ZewnkWoO" text="G" />
-    <string id="zfRqM4mr" text="Control" />
     <string id="Zgs47DHB" text="Caps Lock" />
     <string id="ZIKuUbUG" text="Sets the number of simultaneous ragdoll simulations." />
     <string id="znSZmZvV" text="Map Move Right" />

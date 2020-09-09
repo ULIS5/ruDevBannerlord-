@@ -28,8 +28,7 @@
     <string id="2G3QpSDk" text="Lips concave/convex" />
     <string id="2QzgefNF" text="Face Weight" />
     <string id="2Rf2ChRD" text="Eyebrow Depth" />
-    <string id="2uynGJbP" text="Transfering Troops" />
-    <string id="39kMNdA5" text="Flag Removal" />
+    <string id="2uynGJbP" text="Transferring Troops" />
     <string id="3AInGztr" text="Torso" />
     <string id="3APdsKEi" text="Throwing Knive" />
     <string id="3aX5gXmJ" text="Skin Color" />
@@ -45,6 +44,7 @@
     <string id="4NaOKslb" text="-" />
     <string id="4PrfimcK" text="Badge" />
     <string id="4wLU6s4S" text="Abdomen" />
+    <string id="52YN6m2B" text="Delivered braced polearm damage!" />
     <string id="5LpufKs7" text="Follow Me" />
     <string id="5mSKBidd" text="Nose Shape" />
     <string id="5odwu8qB" text="Ranked" />
@@ -110,6 +110,7 @@
     <string id="bYCfMbYk" text="Change Your Team" />
     <string id="c1zu1b3M" text="You've been removed from the party." />
     <string id="c2tGH5II" text="Warmup Time Limit (minutes)" />
+    <string id="captainasgame" text="Captain" />
     <string id="cBZ6OlKW" text="Javelin" />
     <string id="ccROnOY3" text="Received couched lance damage!" />
     <string id="CFI2aDtg" text="Mount Armor" />
@@ -120,8 +121,9 @@
     <string id="Cl3TziQE" text="Your mount received {DAMAGE} fall damage." />
     <string id="CoxEyDa8" text="Gauntlet" />
     <string id="cPbHqGrI" text="Kick Player" />
+    <string id="cSui4APH" text="Objective Destroyed" />
+    <string id="d1ogH1v1" text="Tsagaan Castle" />
     <string id="d3RJm2zW" text="Jaw Height" />
-    <string id="DdOgvhsV" text="Kick" />
     <string id="DHlVSaZW" text="Relative movement speed: {SPEED} m/s" />
     <string id="DKqLY1aJ" text="Equip" />
     <string id="dojUqbv8" text="Nose Length" />
@@ -142,10 +144,8 @@
     <string id="f5y9qyDb" text="Arm" />
     <string id="F6dUDgg3" text="Defeat" />
     <string id="F6l8hFEA" text="Cliffs of Akkalat" />
-    <string id="F70rOpkK" text="Captain" />
     <string id="fFLBT9wb" text="Chest" />
     <string id="FFNJTsDL" text="Kick a player" />
-    <string id="fFULSlYb" text="Extra damage from perks: {EXTRA_DAMAGE}" />
     <string id="fGFMqlGz" text="Gender" />
     <string id="FgJpTBp1" text="Friendly Fire Ranged Damage Self" />
     <string id="fjD2tRXW" text="Chin Forward" />
@@ -177,7 +177,6 @@
     <string id="ig0lsiwY" text="Soldiers" />
     <string id="iJXH3841" text="Loose" />
     <string id="IKn1YxU2" text="Gold Gain Percentage Attackers" />
-    <string id="imTtoHqW" text="Register As Coop" />
     <string id="ImWyFyld" text="Mouth Position" />
     <string id="irGCyJaY" text="Kill Count" />
     <string id="iTau5cxh" text="Average" />
@@ -212,6 +211,7 @@
     <string id="likop0am" text="Start A Poll" />
     <string id="LkiQDpi5" text="Ear Size" />
     <string id="LmkYgWnF" text="Eye Size" />
+    <string id="Lz6ggWch" text="Damage reduction from perks and effects: {MODIFIED_DAMAGE}" />
     <string id="M1RCJ9DM" text="Third Assist" />
     <string id="m3zVR2UH" text="Show Mouse: [{KEY_NAME}]" />
     <string id="m5UdbzHr" text="No Region Selected" />
@@ -219,6 +219,9 @@
     <string id="MH9Pi3ao" text="Face Direction" />
     <string id="mjhOYJWg" text="Quiver is empty." />
     <string id="MnM0L4AV" text="Not In Multiplayer" />
+    <string id="MnvK3eK2" text="Objective Completed" />
+    <string id="mountnoun" text="Mount" />
+    <string id="mountverb" text="Mount" />
     <string id="MQqaKRtn" text="{SHORTCUT} Movement" />
     <string id="MS795wWa" text="First Assist" />
     <string id="MW8rlyfL" text="Thrown" />
@@ -227,6 +230,7 @@
     <string id="NqarFr4P" text="Options" />
     <string id="nt5MOuwo" text="Dune" />
     <string id="nUR7rs6y" text="Jump straight into the action in this medieval take on a classic PvP game mode. " />
+    <string id="nx5W7jN0" text="Received braced polearm damage!" />
     <string id="nXE6eV8W" text="Lake" />
     <string id="NxeQasMb" text="{SHORTCUT} Fire" />
     <string id="o5Ead68n" text="Quit Without Saving" />
@@ -240,6 +244,7 @@
     <string id="OviaJ1tA" text="Other" />
     <string id="ox8XcxfR" text="Ear Shape" />
     <string id="OZHFucP5" text="Frown/Smile" />
+    <string id="OzifZbSB" text="Match Type" />
     <string id="pa4yXyDa" text="{PLAYER_COUNT} vs {PLAYER_COUNT}" />
     <string id="pagmdsCK" text="Eyelid Height" />
     <string id="PbLuHcJg" text="Absorbed damage: {ABSORBED_DAMAGE}" />
@@ -273,6 +278,7 @@
     <string id="R4Gqskgq" text="Victory" />
     <string id="rbYITcao" text="Mouth" />
     <string id="rbz1Bwbv" text="Inventory" />
+    <string id="RDsOaEtS" text="Extra damage from perks and effects: {MODIFIED_DAMAGE}" />
     <string id="RJEHDWmu" text="·   Buy limited respawns using gold{newline}·   Hold control points on the map to deplete enemy morale{newline}·   Kill the entire enemy team or exhaust their morale to win" />
     <string id="RlDVtPpB" text="Eye Depth" />
     <string id="rLozutts" text="Request Friendship" />
@@ -281,8 +287,10 @@
     <string id="Rvr1bcu8" text="Next" />
     <string id="Sbna6UGb" text="Kid Face" />
     <string id="sBU9vyF1" text="Head shot!" />
+    <string id="scoreboardkick" text="Kick" />
     <string id="SdxEH6b1" text="Bottom Lip Shape" />
     <string id="SfJgnzdq" text="Mute" />
+    <string id="siegemultiplayergametype" text="Siege" />
     <string id="sisK3HPI" text="You are muted." />
     <string id="SN2ojCFr" text="Full Skin" />
     <string id="SNLShTzq" text="Score" />
@@ -319,7 +327,6 @@
     <string id="u8j8nN5U" text="Face Enemy" />
     <string id="UbMCCh8L" text="Nose Bridge" />
     <string id="uCyQNvq1" text="Skein" />
-    <string id="uGM8DWrm" text="Mount" />
     <string id="UHIZLFBn" text="Killed {TROOP_NAME}" />
     <string id="Umb8XsZH" text="Pierce" />
     <string id="umhwsoqb" text="Choose your desired troop at the start of the round and for the further respawns by using gold." />
@@ -364,6 +371,7 @@
     <string id="WxM16s2Y" text="Druimmor Forest" />
     <string id="wxzhtvZR" text="Defenders Respawn Period" />
     <string id="x1QEJna0" text="Wider" />
+    <string id="xhnV76OL" text="Skala Landing" />
     <string id="xILeUbY3" text="Admin Panel" />
     <string id="Xj2FCkQl" text="Custom Server List" />
     <string id="xoXWGYVI" text="·   Use various siege engines to attack or defend control points{newline}·   Spawn points advance as control points are captured{newline}·   Successfully assault and hold the keep flag or repel the enemy to win" />
@@ -375,11 +383,11 @@
     <string id="xXQN7Go6" text="Monolid Eyes" />
     <string id="XZU9SyQW" text="Quick Play" />
     <string id="XzZFhRwr" text="Return To The Game" />
-    <string id="Ybvu10zM" text="Siege" />
     <string id="ycCmfxhJ" text="Fifth Kill" />
     <string id="yClOSxT8" text="Nose Definition" />
     <string id="yfa7tpbK" text="All" />
     <string id="YhDDXj0I" text="Canyon" />
+    <string id="YNkPy4ta" text="Clan Match" />
     <string id="YoNYyLba" text="Spear" />
     <string id="yQtzabbe" text="Close" />
     <string id="YRabuUqx" text="Baravenos Encirclement" />

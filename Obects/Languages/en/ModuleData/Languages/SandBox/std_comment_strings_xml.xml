@@ -64,7 +64,7 @@
     <string id="caKCwoPM" text="The Bani Zilal are the keepers of the secret. We watch from the shadows. Make foes of us at your peril." />
     <string id="captainasleader" text="Captain" />
     <string id="cFiSjbf4" text="Hah! I want to fight with you" />
-    <string id="cGuzIVlk" text="They say you have traveled quite widely. Tell me a bit about your journeys..." />
+    <string id="cGuzIVlk" text="They say you have travelled quite widely. Tell me a bit about your journeys..." />
     <string id="cMO9JXvk" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. We hold our lands in fief to {LIEGE_TITLE}, and we honor our oaths of fealty." />
     <string id="CN20EFDE" text="Unfortunately, at these odds, it would be rather foolish of me not to attack you." />
     <string id="CPWbB47d" text="I've heard of you! I have long wanted to make your acquaintance." />
@@ -86,13 +86,14 @@
     <string id="EXgm5Utx" text="Long may {?GENDER}she{?}he{\?} live!" />
     <string id="eyxfHmCU" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. Our family has served the kings of the Vlandians for generations." />
     <string id="f2eZL7w5" text="Oh, I suppose I'm obligated to give you a chance to grovel for your life. Will you surrender, then?[ib:warrior][if:idle_angry]" />
-    <string id="f3X79aDs" text="So... I've heard you've traveled around a fair bit. No doubt you've seen a lot of strange and awful things. Maybe you've done a few strange and awful things. Go on, tell me a bit about your journeys. I promise not to be shocked." />
+    <string id="f3X79aDs" text="So... I've heard you've travelled around a fair bit. No doubt you've seen a lot of strange and awful things. Maybe you've done a few strange and awful things. Go on, tell me a bit about your journeys. I promise not to be shocked." />
     <string id="Fb7JxGKM" text="Yeah... I know your name. Right. I'm not one for chat, so let's skip the soup and go straight to the meat." />
     <string id="fbArcLAA" text="My lady, if you are skilled as arms as you are fair in countenance, then your enemies should indeed fear you!" />
     <string id="FbstpIYj" text="Don't say I didn't give you a chance." />
     <string id="FFXqPFwl" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, one of the most illustrious families in the annals of the Vlandian kingdom." />
     <string id="fHFpgitO" text="It is good to meet you. Always remember that while courage is commendable, compassion is the greatest of virtues." />
     <string id="FpD4Y9cX" text="Thank you. I must remain your enemy, but I am grateful nonetheless.[if:happy][rb:very_positive]" />
+    <string id="g3oFsCtd" text="You asked for a parley. I will trust you will honor the customs of war and attempt no tricks." />
     <string id="G8ol9sG3" text="It grieves me to fight you, but I must. Unless of course you wish to surrender.[ib:warrior][if:idle_angry]" />
     <string id="gBRBdsIe" text="I am sure someone with your reputation knows that nothing in this world is as valuable as the weight of your word. Speak truthfully with me, and I shall do the same with you." />
     <string id="gggmhjd7" text="I'm not sure that you can offer me anything that I would not do better simply to take." />
@@ -182,11 +183,13 @@
     <string id="ry1ycxNY" text="I wish it hadn't come to this." />
     <string id="s1FVPS5D" text="I am {CONVERSATION_CHARACTER.LINK}, of the house of {CLAN_NAME}. Our family has served the Empire for generations." />
     <string id="S1vGzr8z" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, a clan of the Aserai." />
+    <string id="s6xlGuTH" text="I will honor the terms of the parley if you do likewise." />
     <string id="sax2tF9L" text="You are indeed a {?PLAYER.GENDER}woman{?}man{\?} of honor, {?PLAYER.GENDER}madame{?}sir{\?}. I shall not forget this![if:happy][rb:very_positive]" />
     <string id="SJ3bpDxC" text="I do not recognize your banner, but clearly you are a lady of rank. Please consider me your most humble servant." />
     <string id="sJNrVlXa" text="Heard you get around quite a bit... So... Tell me a bit about your travels, then." />
     <string id="SSuL62NZ" text="I'm loyal to {FIRST_NAME}. No one better say otherwise." />
     <string id="sswCmQZ2" text="They call us the Lake Rats, but we prefer to be known as the free people of the marshes. No prince or boyar can make us bow our heads and scrape our knees. Know that, and we can probably get along fine." />
+    <string id="T0Cdfsx2" text="You asked for a parley. If you're tempted to try any tricks, do know I have some archers standing by to keep you honest." />
     <string id="t6sRVI5C" text="My wife" />
     <string id="tA4wDLt2" text="I shall have my scribes make a note of your name." />
     <string id="te2DSMtg" text="We're not putting up with it any more. We will spill the blood of the oppressors and anyone who stands in the way of our just wrath." />

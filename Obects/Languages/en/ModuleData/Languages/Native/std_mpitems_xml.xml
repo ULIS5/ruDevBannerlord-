@@ -58,6 +58,7 @@
     <string id="47Psftp7" text="Northern Maul" />
     <string id="4a99jSHC" text="Steppe Leather Shoulders" />
     <string id="4AfHO0BA" text="Sleeveless Studded Fur Armor" />
+    <string id="4aFPp5hj" text="Light Oval Shield" />
     <string id="4BfbPgkY" text="Nasal Cervelliere Over Padded Cap" />
     <string id="4CPxahsU" text="Eastern Cavalry Mace" />
     <string id="4DiJ8dfj" text="Western Bastard Axe" />
@@ -91,6 +92,7 @@
     <string id="7rhZlXdO" text="Hunting Longbow" />
     <string id="7yGwvnUA" text="Northern Tunic" />
     <string id="7zIWNagP" text="Heavy Ild" />
+    <string id="8bH8n3Aq" text="Light Tall Heater Shield" />
     <string id="8cM840mh" text="Northern Luxery Tunic" />
     <string id="8DnJls9z" text="Steppe Leather Vambraces" />
     <string id="8hDoWBIa" text="Commoners Shirt" />
@@ -265,7 +267,6 @@
     <string id="GNdVXMue" text="Scarf" />
     <string id="Goloz0Vm" text="Husnphree" />
     <string id="gqbjCBld" text="Northern Throwing Axe" />
-    <string id="gSaKwztg" text="Highland Noble Bracers" />
     <string id="gT8WENO3" text="Dummy Higher Average" />
     <string id="gTptIfxY" text="Desert Cap" />
     <string id="GTWUtUFj" text="Chain Horse Harness" />
@@ -392,6 +393,7 @@
     <string id="maYSspDY" text="Roundkettle Over Imperial Cloth" />
     <string id="Mb1hQRyT" text="Desert Oval Shield" />
     <string id="Mb9DaXHm" text="Highland Twohanded Sword" />
+    <string id="mbT1uNPa" text="Dagger" />
     <string id="Mc6IC6UM" text="Buckled Wildsman Armor" />
     <string id="mDHMOUdx" text="Footman's Wicker Shield" />
     <string id="mFbFEOVz" text="Northern Fur Cap" />
@@ -406,7 +408,6 @@
     <string id="mRGIxvYh" text="Nasal Cervelliere Over Mail Coif" />
     <string id="mScuLsnl" text="Yeow Long Bow" />
     <string id="MUdwS6jH" text="Tougher Tyal Horse" />
-    <string id="MvvlKO0U" text="Iron Feathered Spangenhelm Over Leather" />
     <string id="mXQsNAmZ" text="Bodkin Arrow" />
     <string id="n6EbRo6h" text="Northern Cavalry Axe" />
     <string id="ndfDy5B8" text="Tied Head Wrapping" />
@@ -459,7 +460,7 @@
     <string id="PVQLXEOd" text="Fast Arrow" />
     <string id="pyupZxJK" text="Kontos" />
     <string id="pzfbPbWW" text="Boulder" />
-    <string id="PZPphq6H" text="Steppe Warhorse" />
+    <string id="PZPphq6H" text="Steppe Battlehorse" />
     <string id="q1z4FQub" text="Camel Saddle" />
     <string id="Q2PseaBn" text="Layered Southern Robe" />
     <string id="q4iQapMS" text="Highland Rider's Shield" />
@@ -581,7 +582,6 @@
     <string id="vNNMGllv" text="Northern Plated Gloves" />
     <string id="vOStJZya" text="mp_heavy_armor" />
     <string id="VRP5Q4mU" text="Southern Ring Mail" />
-    <string id="VrZJfOFN" text="Highland ThrowingKnife" />
     <string id="vsavMoLZ" text="Segmented Cervelliere Over Padded Cloth" />
     <string id="VSMpadvq" text="Fur Armor" />
     <string id="vU1ibFrY" text="Eastern Reinforced Armor" />

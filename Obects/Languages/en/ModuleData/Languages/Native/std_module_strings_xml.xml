@@ -127,6 +127,7 @@
     <string id="4rRsmX8i" text="Good. Sometimes it's better to shear the sheep than eat them." />
     <string id="4Skg9QhO" text="Trebuchet" />
     <string id="4smaJqhw" text="Annex" />
+    <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} leading battle." />
     <string id="4WD0kJSR" text="Arrr.. You'd best not be toying with us." />
     <string id="4wYguFLZ" text="Solving issue" />
     <string id="4Y5T7wp1" text="Cannot kick family members from clan." />
@@ -335,7 +336,6 @@
     <string id="b5t34yLX" text="Horse Harness" />
     <string id="b6biU4f1" text="Create New Party" />
     <string id="B6g1ukB7" text="Tier I" />
-    <string id="b6zBcSp2" text="The town is booming. The walls, streets, and homes are well-maintained." />
     <string id="b778BvfW" text="This item is {PERCENTAGE}% more expensive than average" />
     <string id="b7aDfCR9" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} defending." />
     <string id="b7bWCXbk" text="Run along now, little sheep. And be careful of the other wolfpacks out there." />
@@ -361,7 +361,7 @@
     <string id="bfsJfrtk" text="{LEFT}{RIGHT}" />
     <string id="BftxIurV" text="You need to resolve {DECISION_NAME} decision." />
     <string id="bg6x6Hbv" text="Helm" />
-    <string id="Bg83jhCR" text="The town is clearly going through hard times." />
+    <string id="Bg83jhCR" text="The town is clearly going through hard times. People look malnourished and buildings are poorly maintained." />
     <string id="bg8co4he" text="Slaughter{newline}You will not be able to undo this action." />
     <string id="bgjiFSHZ" text="Battanians" />
     <string id="bGyrPe8c" text="Production" />
@@ -616,17 +616,15 @@
     <string id="FRZfpryn" text="Bring forward the proposal to give this settlement to someone else" />
     <string id="FS78CuPs" text="The skills that are bound to {ATTRIBUTE_NAME} attribute are:" />
     <string id="FVEvjlis" text="Party Size Limit Exceeded" />
-    <string id="FvlyWloX" text="The village is booming. Brimming sacks of grain and loaded carts testify to the bounty of the fields." />
     <string id="FvYhaE3z" text="Banner" />
     <string id="fwbD1Jqo" text="Buy" />
     <string id="FwlZRESM" text="+{BONUS_AMOUNT} bonus to militia" />
     <string id="fWwYUOVs" text="We will accept your offering." />
     <string id="FxoVjLvl" text="Shields&amp;Ranged" />
     <string id="FxPzcyLN" text="{SUPPORTERNAME} is supporting {CANDIDATENAME}" />
-    <string id="FZBqNCvd" text="nobody" />
     <string id="G0AWk1rX" text="Ladder" />
     <string id="g0gDsalr" text="Impulsive" />
-    <string id="g1KLcfxT" text="The village is prosperous. The people look well-fed and content. Healthy animals pull the ploughs and carry the harvests." />
+    <string id="g1KLcfxT" text="The village is prosperous. Brimming sacks of grain, healthy animals and loaded carts testify to the bounty of the fields." />
     <string id="G4XXubLg" text="an emira" />
     <string id="G5yvspkZ" text="Can't retreat, duel is ongoing!" />
     <string id="g7zo28KR" text="You have encountered {PARTY}. They have no chance against your overwhelming power, and they surrender." />
@@ -690,7 +688,7 @@
     <string id="hbeUbpEA" text="Are you sure you want to cancel?" />
     <string id="HcAV8x7p" text="Party Member" />
     <string id="HCZ5XSEL" text="{?IS_POSITIVE}+{?}-{\?} {NUMBER}" />
-    <string id="HD2wzAxz" text="Sturgians are the descendants of the foreign tribes of northern Calradia. As the empire expanded into their cold forests, they found that a ready market for the luxurious furs of woodland animals whom they traditionally hunted and trapped. Sturgian chieftains became princes, vying for pre-eminence with the help of Nord mercenaries who migrated into their realm. They are good hunters and wanderers, travelling far in search of opportunies both for trade and for plunder." />
+    <string id="HD2wzAxz" text="Sturgians are the descendants of the foreign tribes of northern Calradia. As the empire expanded into their cold forests, they found a ready market for the luxurious furs of woodland animals whom they traditionally hunted and trapped. Sturgian chieftains became princes, vying for pre-eminence with the help of Nord mercenaries who migrated into their realm. They are good hunters and wanderers, travelling far in search of opportunities both for trade and for plunder." />
     <string id="hDktLs4a" text="You have acted wisely and with respect. You may go." />
     <string id="HdTVkcII" text="Improve relations with people. Socialize with nobles. Do Barters." />
     <string id="HEQ2zEei" text="Undo" />
@@ -713,7 +711,6 @@
     <string id="hometab" text="Home" />
     <string id="HP9wMk1T" text="Can't access party screen right now!" />
     <string id="HPe7HaZx" text="Ransoming Prisoners" />
-    <string id="hpNFob32" text="The town is poor. The people are malnourished." />
     <string id="hqIIEur1" text="You have encountered {ARMY}." />
     <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} waiting for other siege machines to arrive." />
     <string id="HuCClZqT" text="Wage" />
@@ -738,7 +735,7 @@
     <string id="I8xMpWxO" text="Daring" />
     <string id="IagYTD5O" text="Prosperity" />
     <string id="IbGNaL0H" text="{HERO.LINK}   Level: {LEVEL}" />
-    <string id="IbkODMHV" text="Spot tracks and hideouts. Travel through difficult terrain.(Scout)" />
+    <string id="IbkODMHV" text="Spot tracks and hideouts. Travel through difficult terrain. (Scout)" />
     <string id="IcgVKFxZ" text="Ruler" />
     <string id="iCirZbD8" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} shooting from the castle walls." />
     <string id="icmyseoo" text="My lord," />
@@ -852,6 +849,7 @@
     <string id="k8QpbFnj" text="Cape" />
     <string id="k9QvIYaR" text="Focus points are used to increase the learning rate at any skill." />
     <string id="ka7vAxgo" text="Charge at enemy {TARGET_FORMATION}" />
+    <string id="KafFddmO" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} protecting general." />
     <string id="KawqKhwh" text="Heavy Armor" />
     <string id="KC5AZohd" text="Greetings, traveler. Welcome to our forest. We're going to have to collect a small toll." />
     <string id="KcQiDE6b" text="Can sell at {SETTLEMENT_NAME} for: {SELL_PRICE}" />
@@ -912,7 +910,6 @@
     <string id="LBy6YDMV" text="Regroup" />
     <string id="Lc1vIEnM" text="Wolves and sheep move in the same way by sliding along the lines on the board, one tile per turn." />
     <string id="LEC8NhCV" text="Policies" />
-    <string id="lfkwsa5f" text="Track" />
     <string id="lfMgaBiJ" text="Make it worth our while not to kill you." />
     <string id="Lg3zeoYi" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} protecting {#IS_LEFT}{#}left{#}multiple{\#}{?IS_MIDDLE}middle{?}{\?}{?IS_RIGHT}right{?}{\?} flank{#IS_LEFT}{#}{#}s{\#}." />
     <string id="lh1yhgXw" text="Horse Equipment V" />
@@ -941,7 +938,6 @@
     <string id="LymKjMLk" text="Your men have just join your party" />
     <string id="lZ1IDnpP" text="Give All" />
     <string id="LZhRP3PM" text="Wait for other siege machines" />
-    <string id="LZjdxXex" text="The village is poor. The people are malnourished. Animals are sick or dying. Cropland is being reclaimed by weeds, for lack of hands to sew it." />
     <string id="Lzmtqif5" text="Army Size" />
     <string id="lznqF0oO" text="Disbanding" />
     <string id="M00MeRJD" text="Cotton" />
@@ -995,7 +991,6 @@
     <string id="MxG4217V" text="Villager" />
     <string id="MxmOWsHj" text="Encyclopedia" />
     <string id="mXxVf2rb" text="Book" />
-    <string id="mz8PnI3s" text="Hit bone: {BONE}." />
     <string id="mZR7eYHa" text="Shield I" />
     <string id="N0MCVBXb" text="Forget It" />
     <string id="n3cjEB0X" text="Tools" />
@@ -1125,7 +1120,6 @@
     <string id="PJEuE208" text="Militia:" />
     <string id="PJNW1UWK" text="Shop Keeper" />
     <string id="pJR9zz06" text="Troops that are ready to upgrade are marked with a special icon.{newline}{newline}Some troops may have two possible upgrade paths." />
-    <string id="pkyASW0A" text="Party / Payment Size Reach" />
     <string id="pLZeP6L6" text="Assault walls{?IS_GENERAL_SIDE}{?} from {SIDE_STRING} side{\?}" />
     <string id="pm0yiOmv" text="Earned: {DENAR_AMOUNT}{GOLD_ICON}" />
     <string id="PMnSk81U" text="So you intend to fight, little sheep? Let's see your horns then." />
@@ -1270,6 +1264,7 @@
     <string id="SdXS4lxN" text="Faction Leader Bonus" />
     <string id="SEBZa2Lh" text="Boost Cohesion" />
     <string id="SeQ0Q7r6" text="Ongoing Issue" />
+    <string id="settlementtrack" text="Track" />
     <string id="sfcbd6QS" text="You've scored {CURRENT_PROGRESS} points out of the {TARGET_PROGRESS} needed to succeed in this persuasion attempt." />
     <string id="SFddKpPz" text="Tightfisted" />
     <string id="SFg3xgCM" text="Nearby" />
@@ -1346,6 +1341,7 @@
     <string id="TxeKpK3Y" text="Your relation is increased by {MAGNITUDE} to {VALUE} with {HERO.NAME}." />
     <string id="tXl9REtA" text="Militia of {SETTLEMENT_NAME}" />
     <string id="Tyc4aAdz" text="Join the battle without leading any men." />
+    <string id="u3c9M8vx" text="an archoness" />
     <string id="U7er3V9s" text="Items" />
     <string id="U7Z7f7ZT" text="Spouse" />
     <string id="U8TPlwW9" text="Well met {PLAYER.LINK}. I am in your debt for what you just did. I hope one day I will find a way to repay it." />
@@ -1360,7 +1356,6 @@
     <string id="uCikaIoq" text="Splendid. See, my lads and I, we're not cruel men. A bit greedy though, that can't be denied, so do be generous.[ib:hip][rb:trivial]" />
     <string id="UckVajhO" text="Renown Gained: + {RENOWN}" />
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}" />
-    <string id="Ue3JhJvE" text="Armor Extra" />
     <string id="ufnnUxKb" text="Leather" />
     <string id="uFuDwaYp" text="{HOUR} {?PLURAL}hours{?}hour{\?}" />
     <string id="ug4LiPbb" text="Ranged Weapons IV" />
@@ -1452,7 +1447,6 @@
     <string id="VyPwh1CT" text="Take Hero To Party" />
     <string id="vZzDCjDr" text="Currently nobody is willing to be recruited in this town." />
     <string id="W1seGc3t" text="Cartridge" />
-    <string id="w2j9LGvZ" text="Target Size" />
     <string id="W2WXkiAh" text="Ransom Broker" />
     <string id="w3v2S03V" text="Your relation with {HERO_NAME} will &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;increase&lt;/b&gt;&lt;/a&gt;" />
     <string id="W4iKIM2s" text="Small Shield" />
@@ -1617,7 +1611,6 @@
     <string id="zfCoeglY" text="Musician" />
     <string id="zg0q1aqD" text="You cannot disband a garrison party" />
     <string id="Zg5Zmgui" text="We are returning from the market at {TOWN} back to our village." />
-    <string id="zgRwrWSC" text="Payment Ratio" />
     <string id="ZhiB1EOM" text="Prisoner at {SETTLEMENT_NAME}" />
     <string id="ZlJIpfWg" text="Speed bonus: {SPEED_BONUS}%." />
     <string id="ZMdOAbTd" text="Attacker Army" />

@@ -124,7 +124,7 @@
     <string id="7rGaUG0W" text="Eastern Fur Hood" />
     <string id="7S6BjECG" text="Mule Harness with Pack" />
     <string id="7sgW3eHd" text="Eastern Dress with Fur" />
-    <string id="7yGwvnUA" text="Northern Tunic" />
+    <string id="7yGwvnUA" text="Light Tunic" />
     <string id="85q9uY76" text="Highland Half Scaled Harness" />
     <string id="89bCqb0Z" text="Wicker Square Tournament Shield" />
     <string id="89OWzLBb" text="Bamboo Handled Ascia Axe" />
@@ -613,6 +613,8 @@
     <string id="NmLEZfiI" text="Eastern Javelin" />
     <string id="nNGCuIUf" text="Imperial Open Mail Coif" />
     <string id="Nqa2maO2" text="Woven Leather Coat" />
+    <string id="nTc20R1R" text="Makeshift Sledgehammer" />
+    <string id="nTjEUF9z" text="Crude Large Round Shield" />
     <string id="NtsdmmW9" text="Dates" />
     <string id="nUarDXVH" text="Iron Roundkettle Over Imperial Leather" />
     <string id="NUHzapSv" text="Long Hemp Tunic" />
@@ -678,6 +680,7 @@
     <string id="QA5zGCKf" text="Decorated Fullered Sword" />
     <string id="QaKohN0V" text="Imperial Mail Over Stripped Leather" />
     <string id="qaraQjXa" text="Roundkettle Over Imperial Padding" />
+    <string id="QaysED62" text="Tunic With Rolled Cloth" />
     <string id="Qazvdg1P" text="Imperial Cloth Coif" />
     <string id="qc0P0b2r" text="Goggled Helmet Over Mail" />
     <string id="QcKpipVr" text="Adarga" />
@@ -715,6 +718,7 @@
     <string id="RaTK0SBu" text="Western Riders Kite Shield" />
     <string id="Rcc0JW6H" text="Thamaskene Steel Spatha" />
     <string id="RcCtV0aS" text="Woodland Yew Bow" />
+    <string id="RddFH0BA" text="Iron Rimmed Large Round Shield" />
     <string id="rdKSIamN" text="Piercing Arrows" />
     <string id="REYaHXQb" text="Sturgia Cavalry Armor" />
     <string id="rF7Xm7C0" text="Heavy Heater Shield" />
@@ -995,6 +999,7 @@
     <string id="Zvxydvao" text="Imperial Rich Dress" />
     <string id="Zwb65ufG" text="Clay" />
     <string id="Zx4h7jDy" text="Dummy Min Armor" />
+    <string id="ZYQrmlKH" text="Highland Chainmail" />
     <string id="zZ2G7uIO" text="Kettle Helmet Over Mail" />
   </strings>
 </base>
