@@ -15,12 +15,10 @@
     <string id="2bzFzemV" text="Heavier Crossbow" />
     <string id="2JZakvPJ" text="Replaces Menavlion with Heavy Menavlion, slower but deals more damage." />
     <string id="3ksDHRKT" text="Grants Eastern Long Spear, a two handed long spear." />
-    <string id="4ckL9lJ8" text="Grants Pilas, longer, good for harrassing, can be used in melee, low in quantity." />
     <string id="4eFFdbbh" text="Replaces Voulge with Two Handed Sword, effective at dueling and thrusting, two handed." />
     <string id="4wdgiTta" text="Sickle" />
     <string id="5JQFx3EW" text="Replaces mount with a faster and more maneuverable horse." />
     <string id="5pLEUc4t" text="Strong Arrows" />
-    <string id="5ydbUsFh" text="Throwing Spears" />
     <string id="6bdcoGI1" text="Replaces mount with a faster and more maneuverable horse." />
     <string id="6hwZwODh" text="Glaive" />
     <string id="722U31od" text="Replaces mount with a more maneuverable, durable but slower horse that deals more charge damage." />
@@ -59,11 +57,9 @@
     <string id="cfSgK0nk" text="Agile Horse" />
     <string id="CG5D5r2w" text="Replaces Sword with Mace, effective against armored opponents." />
     <string id="CJo3mNsK" text="Provides stronger javelins." />
-    <string id="cMsadGUb" text="Pilas" />
     <string id="CQBiJLgv" text="Camel" />
     <string id="cRCkC36E" text="Short Sword" />
     <string id="d7Z3ka1m" text="Better Bow" />
-    <string id="d8oFKRxa" text="Grants Throwing Spears, longer than spears, throwable, can be used in melee." />
     <string id="D9XZcdid" text="Grants Franceskas, provides ranged damage, effective against shields, low in quantity." />
     <string id="DCyOFcZI" text="Grants Billhook, a polearm." />
     <string id="Dj64aJKQ" text="Billhook" />
@@ -105,7 +101,6 @@
     <string id="JBVAeXx3" text="Pitchfork" />
     <string id="JbWbiO6O" text="Bow and Arrows" />
     <string id="Jd0Kq9lD" text="Shield" />
-    <string id="JfnVaE9D" text="Grants Pilas, good for harrassing, can be used in melee, low in quantity." />
     <string id="JjRJs2Ue" text="Replaces Pickaxe with Two Handed Axe, extra effective against shields." />
     <string id="jKYWiUZA" text="Replaces mount with a tougher, more maneuverable but slower horse that deals more charge damage." />
     <string id="K1UFTirG" text="Light Crossbow" />
@@ -139,11 +134,14 @@
     <string id="PNZmPprx" text="Two Handed Sword" />
     <string id="pyupZxJK" text="Kontos" />
     <string id="q8n63o4y" text="Grants Awl Pike, very effective against cavalry, longer than spears, two handed." />
+    <string id="qENFMPqP" text="Grants Throwing Spear, longer than spears, throwable, can be used in melee." />
     <string id="QLcP8bIs" text="Falx" />
     <string id="QojyuDln" text="Grants Kontos, longer, deals more damage but slower." />
     <string id="QR4bNj8H" text="Grants Cavalry version of Menavlion." />
     <string id="Qs4VOXgE" text="Short Spear" />
+    <string id="r1Jp5c72" text="Grants a Pilum, longer, good for harrassing, can be used in melee." />
     <string id="R7TAImaC" text="Larger Shield" />
+    <string id="rkqaCud5" text="Pilum" />
     <string id="RV6BCPvg" text="Replaces Axe with a longer and heavier axe. Extra effective against shields." />
     <string id="rzP3J3Kb" text="Replaces Falx with Rhomphaia, longer but deals less damage and slower." />
     <string id="sagHGCh7" text="Replaces Long Spear with Kontos, longer, deals more damage but slower." />

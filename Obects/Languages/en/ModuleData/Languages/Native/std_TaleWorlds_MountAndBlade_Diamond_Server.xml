@@ -121,6 +121,7 @@
     <string id="SIT1tREw" text="You cannot add yourself as friend" />
     <string id="sov81CZ5" text="Your Bannerlord ID is updated successfully" />
     <string id="SvHP9TXr" text="Not all players are ready." />
+    <string id="T96cPmJT" text="Clan game no longer exists." />
     <string id="Tauk2JzA" text="Version mismatch, Server Version: {SERVERVERSION} - Your Version: {CLIENTVERSION}." />
     <string id="TKv0vF7H" text="You must be at lobby to change clan sigil." />
     <string id="TpBDiSBp" text="{PLAYERNAME} was assigned party leader." />
@@ -148,7 +149,7 @@
     <string id="ywVYMhiF" text="You must be the clan leader to change clan information text." />
     <string id="z40g0BmW" text="Could not update Bannerlord ID" />
     <string id="zBaXq4cg" text="Clan tag is already in use." />
-    <string id="ZtktMXDw" text="You ain't in a clan." />
+    <string id="ZtktMXDw" text="You are not in a clan." />
     <string id="zyDyPr4I" text="Player you tried to promote is not in your party." />
   </strings>
 </base>

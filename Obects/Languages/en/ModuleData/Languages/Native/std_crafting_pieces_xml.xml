@@ -25,6 +25,7 @@
     <string id="1zRo3td4" text="Bolted Horn Two Handed Grip" />
     <string id="22f2NR2N" text="Long Gnarled Ash Shaft" />
     <string id="26KZ6S7F" text="Eastern Decorated Pommel" />
+    <string id="27Oaoras" text="Long Blunt Seax Blade" />
     <string id="29OXRdZu" text="Narrow Tapered Guard" />
     <string id="2FLWuksh" text="Battania Grip" />
     <string id="2Fq1t169" text="Northern Bound Two Handed Grip" />
@@ -65,6 +66,7 @@
     <string id="5ALE9Joh" text="War Scythe Head" />
     <string id="5GR6xb8a" text="Tool Grip" />
     <string id="5KvdG6ep" text="Knightly Golden Crescent Shaped Guard" />
+    <string id="5l0PBFAe" text="Iron Flyssa Blunt Blade" />
     <string id="5NeanDJM" text="Ring Pommel" />
     <string id="5o5DaSHZ" text="Broad Dagger Blade" />
     <string id="5V0QR20o" text="Rough Leather Studded Bloated One Handed Grip" />
@@ -124,6 +126,7 @@
     <string id="AkfEFzkk" text="Bowl Guard" />
     <string id="AKJzOQkF" text="Eastern Backsword Blade" />
     <string id="aKpVHE2g" text="Tasseled Double Hook Wings" />
+    <string id="AlIRh9mz" text="Tapered Blunt Northern Blade" />
     <string id="ALO9gw69" text="Square Bit Two Handed Axe Head" />
     <string id="alti0PsZ" text="Pointy Warsword Blade" />
     <string id="AM6iuDAv" text="Knobbed Diamond Dagger Guard" />
@@ -174,6 +177,7 @@
     <string id="bzr1DEgS" text="Southern Star Dagger Guard" />
     <string id="c1YI2Nxt" text="Iron Spatha Blade" />
     <string id="C2hTDlWq" text="Heavy Sabre Blade" />
+    <string id="c6aNuaDP" text="Jagged Blunt Spear Head" />
     <string id="C89rbAz6" text="Knightly Arming Sword Blade" />
     <string id="cag70E1F" text="Pernach Head" />
     <string id="cbHjFPEb" text="Highland Fine Leather Bastard Sword Grip" />
@@ -204,6 +208,7 @@
     <string id="dlnciENS" text="Wooden Guard" />
     <string id="DLvSnz8U" text="Etched Highland Guard" />
     <string id="dnd2hafw" text="Rough Wrapped Simple Grip" />
+    <string id="dNk7UZVD" text="Fullered Narrow Blunt Arming Sword Blade" />
     <string id="do4vZhh4" text="Tapered Thin Guard" />
     <string id="dpft1I1B" text="Thin Western Guard" />
     <string id="Dsf9JE8N" text="Wooden Hook" />
@@ -222,6 +227,7 @@
     <string id="eBxzZ1SW" text="Jewelled Reinforced One Handed Grip" />
     <string id="edg8bnXX" text="Ridged Northern Dagger Guard" />
     <string id="eeFrva8L" text="Holed Pommel" />
+    <string id="EjJl6bA4" text="Blunt Bill Head" />
     <string id="ELpWa0K5" text="Cured Oaken Pike Shaft" />
     <string id="eLrbkvTV" text="Northern Great Sword Guard" />
     <string id="emryrbYV" text="Braided Pommel" />
@@ -251,6 +257,7 @@
     <string id="G9cBw5sV" text="Highland Round Pommel" />
     <string id="GA4AaQQk" text="Reinforced One Handed Wooden Grip" />
     <string id="Gewh8Bzr" text="Bound Fur Two Handed Grip" />
+    <string id="GFBFgA7R" text="Broad Blunt Dagger Blade" />
     <string id="GI6XD77j" text="Imperial Decorated Pommel" />
     <string id="gIm5Lnh8" text="Mahogany Javelin Shaft" />
     <string id="GLnI8ozz" text="Redwood Handle" />
@@ -272,6 +279,7 @@
     <string id="h4DmfRfb" text="Knightly Pommel" />
     <string id="H6hlPsgV" text="Hide One Handed Grip" />
     <string id="HaNPlFBt" text="Wrapped Hardwood Long Shaft" />
+    <string id="hbv5aCRX" text="Short Simple Blunt Spear Head" />
     <string id="hD5LzC6b" text="Iron Bound Angular One Handed Grip" />
     <string id="he3725oa" text="Conical Spear Pommel" />
     <string id="HF2WJagx" text="Decorated Leather Wrapped Warsword Grip" />
@@ -384,6 +392,7 @@
     <string id="LwM5byQG" text="Simple Iron Spear Pommel" />
     <string id="lYEaqL9y" text="Bound Fur One Handed Grip" />
     <string id="LYSMiV6V" text="Long Hide Grip" />
+    <string id="lz8rSkzE" text="Thick Blunt Sabre Blade" />
     <string id="LzHkkphU" text="Rough Leather Knobbed One Handed Grip" />
     <string id="lZoqaYmx" text="Spiked Club Head" />
     <string id="M08i7S6M" text="Tapered Desert Dagger Guard" />
@@ -391,6 +400,7 @@
     <string id="m2Xz2K5v" text="Northern Fur Two Handed Grip" />
     <string id="m6CVEgTU" text="Spiked Battle Axe Blade" />
     <string id="m8eUrnVj" text="Thin Western Dagger Guard" />
+    <string id="M9ACQeD6" text="Large Blunt Ascia Head" />
     <string id="mak3naEe" text="Wide Fullered Broad Two Hander Blade" />
     <string id="MCRppfbZ" text="Pine Javelin Shaft" />
     <string id="mcYSvJfA" text="Tree Branch" />
@@ -421,13 +431,16 @@
     <string id="Nhhmj7bz" text="Hard Maple Pike Shaft" />
     <string id="Nk924YlG" text="Decorated Fine Steel One Handed Grip" />
     <string id="nKb9goqQ" text="Thin Guard" />
+    <string id="NkV2CAmL" text="Iron Blunt Scimitar Blade" />
     <string id="NLs9M1D6" text="Eastern Simple Oval Guard" />
     <string id="NmkDgmWW" text="Steel Horsemans Mace Handle" />
     <string id="NO6FhjbJ" text="Tangerine Leathered Grip" />
     <string id="NQb8boHt" text="Hardened Ash Shaft" />
     <string id="nr3K4od2" text="Pilum Head" />
+    <string id="NRhAqB5a" text="Long Grassland Blunt Spear" />
     <string id="nRKOX66b" text="Jagged Fine Steel Spear Head" />
     <string id="NS83CCvb" text="Common Iron Axe Head" />
+    <string id="nsjbWcmp" text="Narrow Blunt Sparth Blade" />
     <string id="ntIEIQ0N" text="Light Shishpar Head" />
     <string id="Num2tkFb" text="Plated Long Grip" />
     <string id="NuXH8rip" text="Layered Bronze Guard" />
@@ -455,16 +468,19 @@
     <string id="oW5N04JL" text="Highland Steel Blade" />
     <string id="OW7w3Mth" text="Fian's Pommel" />
     <string id="Oxew9WCe" text="Imperial Simple Spear Head" />
+    <string id="oXXWEUYY" text="Iron Blunt Broadsword Blade" />
     <string id="Oz6xANFb" text="Highland Ornamental Pommel" />
     <string id="p1Uz3dqs" text="Riveted Decorated Red Kaskara Grip" />
     <string id="p2aqirUu" text="Fine Leather Flyssa Grip" />
     <string id="p2xjr5Bp" text="Wooden Blade" />
     <string id="p3jlcHNo" text="Long Plain Spear Pommel" />
+    <string id="pAqWQWJs" text="Blunt Kontarion" />
     <string id="pb4zUxzA" text="Makhaira Blade" />
     <string id="PbxZzhZx" text="Narrow Seax Guard" />
     <string id="PjMeZcwO" text="Lipped Dagger Guard" />
     <string id="pkmy6zB2" text="Southern Star Guard" />
     <string id="PmPxx2gK" text="Bent Razor Head" />
+    <string id="pnS90zg8" text="Flat Ridged Blunt Spatha Blade" />
     <string id="pocRP9dq" text="Long Ash Staff" />
     <string id="PQ8rR13R" text="Long Fine Steel Scimitar Blade" />
     <string id="PqoJ1ZeB" text="Decorated Sabre Blade" />
@@ -605,6 +621,7 @@
     <string id="WkLj6xAo" text="Trapezoid Pommel" />
     <string id="WkTkxQfw" text="Rectangular Bit Blade" />
     <string id="Wl1m0LbL" text="Silver Inlaid Engraved Reinforced Grip" />
+    <string id="Wn4GjoXY" text="Square Bit Blunt Two Handed Axe Head" />
     <string id="WNch6azL" text="Iron Scimitar Blade" />
     <string id="wQGWxeCc" text="Thick Sabre Blade" />
     <string id="wsVbMK6L" text="Tournament Flat Blade" />

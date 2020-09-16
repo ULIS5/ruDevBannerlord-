@@ -153,6 +153,7 @@
     <string id="kF3b8cH1" text="Create Your Clan" />
     <string id="kftE5nvv" text="Horse Armor" />
     <string id="kG0xuyfE" text="Armory" />
+    <string id="klkYFik9" text="You've already reported this player." />
     <string id="koX9okuG" text="None" />
     <string id="l2CNxPXG" text="Teeth Type" />
     <string id="L3DJHTdY" text="Enter Bannerlord ID" />
@@ -243,7 +244,7 @@
     <string id="tjioq56N" text="Friend List" />
     <string id="tTwQsP6j" text="Player does not exist" />
     <string id="TxphX8Uk" text="Deployment" />
-    <string id="TzYWE9tA" text=" No Recent Games Found" />
+    <string id="TzYWE9tA" text="No Recent Games Found" />
     <string id="U4dzbzNb" text="Please wait while you are being connected to the server" />
     <string id="UfK6ztFl" text="Clan Matches" />
     <string id="ulzyykHO" text="This Tag Already Exists" />

@@ -22,7 +22,7 @@
     <string id="0oGz5rVx" text="Honor" />
     <string id="0qCbsOif" text="Pistol" />
     <string id="0RkO7oHP" text="captain" />
-    <string id="0V4jIIju" text="Travelling {SETTLEMENT_NAME} to besiege" />
+    <string id="0V4jIIju" text="Travelling to {SETTLEMENT_NAME} to besiege" />
     <string id="0zz1iDMY" text="a chieftain" />
     <string id="11aiaODt" text="Foot Armor" />
     <string id="13q8IRfZ" text="my sister {REFERING_HERO.LINK}" />
@@ -396,7 +396,7 @@
     <string id="Btglp7Ij" text="You cannot expel your own clan." />
     <string id="btil6Rdb" text="What have we here? Looks like the mountain spirits have answered our prayers, and granted us success in the hunt." />
     <string id="BtnJh0j4" text="At War" />
-    <string id="buQvCDbP" text="Travelling {SETTLEMENT_NAME} to defend" />
+    <string id="buQvCDbP" text="Travelling to {SETTLEMENT_NAME} to defend" />
     <string id="BVaXBAr9" text="Roll Dice" />
     <string id="bw9HPIwa" text="New reinforcements have arrived for enemy side!" />
     <string id="bWcpv1ou" text="No Settlement Selected" />
@@ -622,6 +622,7 @@
     <string id="fWwYUOVs" text="We will accept your offering." />
     <string id="FxoVjLvl" text="Shields&amp;Ranged" />
     <string id="FxPzcyLN" text="{SUPPORTERNAME} is supporting {CANDIDATENAME}" />
+    <string id="FZBqNCvd" text="nobody" />
     <string id="G0AWk1rX" text="Ladder" />
     <string id="g0gDsalr" text="Impulsive" />
     <string id="g1KLcfxT" text="The village is prosperous. Brimming sacks of grain, healthy animals and loaded carts testify to the bounty of the fields." />
@@ -857,7 +858,7 @@
     <string id="kDV7wCtI" text="Complete in: {PREPARATION_TIME}" />
     <string id="KFGfTXqE" text="Sumpter Horse" />
     <string id="kftE5nvv" text="Horse Armor" />
-    <string id="KGH8rjOP" text="Travelling {SETTLEMENT_NAME} to raid" />
+    <string id="KGH8rjOP" text="Travelling to {SETTLEMENT_NAME} to raid" />
     <string id="KGHlXL8H" text="Very well - we shall cleanse this land with your blood." />
     <string id="KGjFnVsR" text="Concepts" />
     <string id="kgqCVvIb" text="my brother {REFERING_HERO.LINK}" />
