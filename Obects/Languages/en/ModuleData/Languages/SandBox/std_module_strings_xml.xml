@@ -7,6 +7,8 @@
     <string id="7ZhNilg8" text="Easy (5% bonus)" />
     <string id="8UBfIenN" text="Normal" />
     <string id="9jSxo790" text="Realistic" />
+    <string id="9l5RgXiU" text="Choose if circle map notifications will be shown on the right side on campaign map." />
+    <string id="aEnXxe0a" text="You can hold the {LEAVE_AREA_KEY} key to leave the current area." />
     <string id="AQfVclN8" text="Prize" />
     <string id="B0uvwKae" text="Choose if the heroes are able to die on the battlefield." />
     <string id="bLwIgxXa" text="Recruitment Difficulty" />
@@ -15,7 +17,6 @@
     <string id="cUHlzCRx" text="Enable Death in Battle" />
     <string id="D9GkBqyW" text="You can leave the training field by holding [{LEAVE_KEY}]{newline}You can return at any time from the campaign map." />
     <string id="DFMhzFGV" text="Keeping a number of horses in your inventory may speed up your party considerably, since they'll increase your carrying capacity and footmen will ride spare horses. Pack horses and mules are only useful for carrying cargo though." />
-    <string id="EGwqzjpa" text="You can hold the tab key to leave the current area." />
     <string id="F8TaKnjh" text="When you are in a town or village scene,  holding down the Alt key shows markers on important people and interest points." />
     <string id="fbaQp3ox" text="Enable auto allocation of perks for members in your clan." />
     <string id="hEYfasE1" text="Received damage ratio to your character." />
@@ -30,6 +31,7 @@
     <string id="k71J6bVH" text="Victories" />
     <string id="KbPD5cEw" text="Reduced to 1/3 (Very Easy)" />
     <string id="KM7uAbL8" text="Player Received Damage" />
+    <string id="lfDzgLTa" text="{PROFESSION} in {LOCATION}" />
     <string id="LfpteADn" text="Determine the difficulty of the combat AI" />
     <string id="mD89ih8N" text="Change Clan Name" />
     <string id="N6fz1efb" text="Skips tutorial at the beginning of the game." />
@@ -50,6 +52,7 @@
     <string id="veterandifficulty" text="Veteran" />
     <string id="vGF5S2hE" text="Leaderboard" />
     <string id="wip6jLEM" text="Received damage ratio to your troops." />
+    <string id="yKJ9c8IV" text="Enable Right Side Circle Map Notifications" />
     <string id="ZcyJePFm" text="Friendly Parties Received Damage" />
     <string id="ZWiFWA2W" text="Skip Main Storyline Tutorial" />
   </strings>

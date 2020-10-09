@@ -93,10 +93,12 @@
     <string id="Aa2Yokz3" text="Numpad *" />
     <string id="aAaF9FWC" text="Right Control" />
     <string id="accbLVWL" text="Sets the anti-aliasing technique. " />
+    <string id="ACIFg43o" text="Choose how to perform blocks. Auto will default to &quot;By Mouse Movement&quot; in Multiplayer." />
     <string id="acqAYxhr" text="," />
     <string id="AhrWBKx9" text="Equip Item 1" />
     <string id="AJFpx99v" text="Exposure Adjustment" />
     <string id="aJxmDbur" text="Hold to leave an area. " />
+    <string id="altgamekey" text="Alt" />
     <string id="amdYLZ6o" text="Quests Window" />
     <string id="aombIn07" text="Set the exposure amount." />
     <string id="ap1wEfdW" text="V" />
@@ -331,7 +333,6 @@
     <string id="PmbKYDON" text="Cheer" />
     <string id="pnEeRPAk" text="Group 7 Hear" />
     <string id="pNocZkrx" text="Enable Damage Taken Visuals" />
-    <string id="PPFFxlsX" text="Choose how to perform blocks." />
     <string id="pQVSwtfn" text="Move camera closer to your character in third person view." />
     <string id="PRsSB9B8" text="Interact with weapons, mounts, doors, people etc." />
     <string id="ps103cxD" text="Perform an attack with your weapon." />

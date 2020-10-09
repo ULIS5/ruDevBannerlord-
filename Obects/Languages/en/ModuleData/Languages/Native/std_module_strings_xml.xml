@@ -640,7 +640,7 @@
     <string id="GD4aQgl7" text="Sheep" />
     <string id="gdraqMso" text="You are outside of {SETTLEMENT_NAME}. You are not allowed inside." />
     <string id="GDugjWao" text="Here is {MONEY}{GOLD_ICON}. Just take it and let us go." />
-    <string id="gflnRhhe" text="({PRIMARY_ROLE})" />
+    <string id="gflnRhhe" text="({PRIMARY_ROLE}/{SECONDARY_ROLE})" />
     <string id="gfQmYDRq" text="As you attempt to force the notables to give you recruits, some of the residents gather to resist you." />
     <string id="gFtu0j4T" text="Arrows" />
     <string id="ggMmjk31" text="Invalid" />
@@ -682,6 +682,7 @@
     <string id="h55xdL1l" text="MuTorere" />
     <string id="h60wQVVX" text="Pike" />
     <string id="h6AJXR2e" text="Are you sure to retreat your party?" />
+    <string id="h8Bcd7NE" text="{FACTION} Ruler Election" />
     <string id="H9y9dLao" text="You can wager gold to increase the prize you take. Every round, the odds will be different and you can wager {MAX_AMOUNT}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; each time." />
     <string id="haax8kMa" text="Polearm" />
     <string id="hAgZBZP8" text="Forfeit" />
@@ -842,6 +843,7 @@
     <string id="K2G3XJwZ" text="Hotheaded" />
     <string id="k3LajvfJ" text="Banner Editor" />
     <string id="k4TcX1wT" text="{HOUR_PREPARATION_TIME} {?PLURAL_HOURS}hours{?}hour{\?}" />
+    <string id="K5uR5HVX" text="Press '{EXTEND_KEY}' for more info." />
     <string id="K6GYskvJ" text="Culture:" />
     <string id="k6tT1vIg" text="The joust is over and your opponent has bested you this day..." />
     <string id="k7ig2JvK" text="a baron" />
@@ -1186,7 +1188,6 @@
     <string id="QgUej8DP" text="No Active Quest" />
     <string id="qhhLVJAC" text="&lt;b&gt;Preparations&lt;/b&gt;" />
     <string id="qIvDX0JR" text="Center" />
-    <string id="Qk6aHGNO" text="Press 'Alt' for more info." />
     <string id="QLM6DWHB" text="Active Quest(s)" />
     <string id="qlw2LWgu" text="Move in to range" />
     <string id="qM8daraD" text="Total skill points: {CURRENT_SKILL_POINTS}" />
@@ -1242,6 +1243,7 @@
     <string id="rPvzZKFk" text="Inadequate garrison" />
     <string id="rQ5On2GL" text="Additional Party Size for every party in the clan" />
     <string id="RqnEjYVe" text="+{RECRUIT_AMOUNT} Recruit{?ISPLURAL}s{?} {\?}" />
+    <string id="rqWJL27J" text="Total Gold" />
     <string id="RTmDiT0l" text="Current Party Size Bonus" />
     <string id="rTuptXLg" text="Attacker Banner" />
     <string id="RU6D7hSR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} advancing." />
@@ -1255,6 +1257,7 @@
     <string id="RzjMX0Og" text="Good. Now be on your way. Don't forget to drink lots of water!" />
     <string id="rzsRQkXw" text="{CHAR_NAME} already have {PERK_NAME} perk." />
     <string id="s1NEbhFL" text="In Queue" />
+    <string id="s2vaPUdG" text="Spear Brace" />
     <string id="S3ymfdwB" text="You have made changes. Do you want to apply them?" />
     <string id="s5h0Yarn" text="Manage your army" />
     <string id="s6ofDDii" text="Barricade" />
@@ -1357,6 +1360,7 @@
     <string id="uCikaIoq" text="Splendid. See, my lads and I, we're not cruel men. A bit greedy though, that can't be denied, so do be generous.[ib:hip][rb:trivial]" />
     <string id="UckVajhO" text="Renown Gained: + {RENOWN}" />
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}" />
+    <string id="uFDiRV1Z" text="({PRIMARY_ROLE})" />
     <string id="ufnnUxKb" text="Leather" />
     <string id="uFuDwaYp" text="{HOUR} {?PLURAL}hours{?}hour{\?}" />
     <string id="ug4LiPbb" text="Ranged Weapons IV" />

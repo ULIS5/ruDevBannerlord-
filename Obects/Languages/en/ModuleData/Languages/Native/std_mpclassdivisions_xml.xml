@@ -15,7 +15,6 @@
     <string id="2bzFzemV" text="Heavier Crossbow" />
     <string id="2JZakvPJ" text="Replaces Menavlion with Heavy Menavlion, slower but deals more damage." />
     <string id="3ksDHRKT" text="Grants Eastern Long Spear, a two handed long spear." />
-    <string id="4eFFdbbh" text="Replaces Voulge with Two Handed Sword, effective at dueling and thrusting, two handed." />
     <string id="4wdgiTta" text="Sickle" />
     <string id="5JQFx3EW" text="Replaces mount with a faster and more maneuverable horse." />
     <string id="5pLEUc4t" text="Strong Arrows" />
@@ -53,6 +52,7 @@
     <string id="bzdCMVuG" text="Cavalry Mace" />
     <string id="bzr6vtXi" text="Heavy Menavlion" />
     <string id="C2XqmIAQ" text="Replaces Recurve Bow with Composite Bow, more accurate, deals more damage but slower." />
+    <string id="C9ufRSsL" text="Sword and Shield" />
     <string id="CaEBx7NK" text="Replaces Tabar with Bardiche, slower but deals more damage." />
     <string id="cfSgK0nk" text="Agile Horse" />
     <string id="CG5D5r2w" text="Replaces Sword with Mace, effective against armored opponents." />
@@ -164,6 +164,7 @@
     <string id="UtJlbDuv" text="Replaces Recurve Bow with Imperial Superior Bow, faster." />
     <string id="uw9m5hav" text="Better Axe" />
     <string id="Uwe3VHaN" text="Heavy Cavalry Sword" />
+    <string id="UWScBrli" text="Replaces the two handed weapon with a Sword and Shield combination." />
     <string id="V2SKzX1e" text="Charger Horse" />
     <string id="v61Qq3SH" text="Replaces Light Crossbow with a heavier Crossbow, better damage." />
     <string id="vBvDZCtw" text="Replaces Tabar with Two Handed Sword, effective at dueling and thrusting." />
