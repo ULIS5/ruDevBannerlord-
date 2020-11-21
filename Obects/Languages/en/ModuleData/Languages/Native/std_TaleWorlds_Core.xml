@@ -4,6 +4,7 @@
     <tag language="English" />
   </tags>
   <strings>
+    <string id="2K0iVRkW" text="Ability to organize a group and manage logistics. This helps you to run an estate or administer a town, and can increase the size of a party that you lead or in which you serve as quartermaster." />
     <string id="2wclahIJ" text="Throwing" />
     <string id="4kvKQuXM" text="Hides" />
     <string id="5rj7xQE4" text="Bow" />
@@ -51,7 +52,6 @@
     <string id="PCZ23wvW" text="Engineering" />
     <string id="PHoxdReD" text="SOC" />
     <string id="PiHpR4QL" text="One Handed" />
-    <string id="qwEJSBaH" text="Your knowledge of what makes a settlement prosper. This helps you to manage an estate or administer a town." />
     <string id="skZS2UlW" text="Athletics" />
     <string id="smithingskill" text="Smithing" />
     <string id="socialskill" text="Social" />
@@ -75,5 +75,6 @@
     <string id="YO5LUfiO" text="Cunning is the ability to predict what other people will do, and to outwit their plans." />
     <string id="YWkdD7Ki" text="Vigor" />
     <string id="ZBmz4niK" text="and" />
+    <string id="ZvZN6UkU" text="Trash Item" />
   </strings>
 </base>

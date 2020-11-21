@@ -6,6 +6,7 @@
   <strings>
     <string id="0m0IUnL1" text="fen Uvain" />
     <string id="0u8ipbgn" text="The tribes known as the Forest People practice slash-and-burn farming in the deep woods, outside the grasp of the Sturgian boyars. They burn down tracts of trees, grow crops on the virgin soil fertilized by ash for a few years until the land is exhausted, and move on. It is an inefficient use of land but a very efficient use of labor, suitable for a numerically small population in a large area. Also, because the plots are hard to measure and tax, it's a very good strategy for people who don't care to be governed." />
+    <string id="14GLGKNj" text="fen Caernacht" />
     <string id="1sbJQR4H" text="Looters" />
     <string id="3o5s6L3y" text="dey Meroc" />
     <string id="3PzgpFGq" text="Neutral" />
@@ -42,6 +43,8 @@
     <string id="CibaXzG8" text="Phalentes" />
     <string id="CRSFOSil" text="Urkhunait" />
     <string id="CS4rSk99" text="dey Cortain" />
+    <string id="cYTdzMQ4" text="Oburit" />
+    <string id="DeSGiCgF" text="dey Rothad" />
     <string id="Ds2vQVwr" text="Avlonos" />
     <string id="e6csp4ha" text="Steppe Bandits" />
     <string id="eC6qIOzz" text="Eleftheroi" />
@@ -63,6 +66,7 @@
     <string id="kkUQObZn" text="Desert Bandits" />
     <string id="l6JtB97p" text="Banu Atij" />
     <string id="LqTTchsa" text="Legion of the Betrayed" />
+    <string id="LTWTTQ71" text="Palladios" />
     <string id="lUfFxWlk" text="Banu Qaraz" />
     <string id="LygSwU3i" text="dey Jelind" />
     <string id="LZVzzczs" text="dey Fortes" />
@@ -73,6 +77,7 @@
     <string id="mtZu1l2j" text="Embers of the Flame" />
     <string id="MVHawAEp" text="Hidden Hand" />
     <string id="nh4Y3LOc" text="Wolfskins" />
+    <string id="NI1paia1" text="Banu Ruwaid" />
     <string id="NObV048p" text="Beni Zilal" />
     <string id="nQOf27Rx" text="The Hidden Hand are a mafia who dominate the rural areas, and sometimes the towns, of the southern parts of the Empire. They thrive by making themselves useful to authorities: repressing unrest, silencing troublesome preachers, and robbing from merchants who compete with their patrons. Many of them go back and forth between a respectable life in the towns and a criminal life in countryside, spending two or three months a year as a brigand and enforcer and the rest as a ”trader” in stolen goods, knowing full well that no one will bother them." />
     <string id="o0Xm5Rqk" text="Playerland" />
@@ -88,6 +93,7 @@
     <string id="RWOYui01" text="The Jawwal, or “Roamers,” are the main bedouin confederacy in the Nahasa desert. They wander from highland to lowland grazing grounds, declaring huge swathes of the desert their “territory” in which any caravan must offer protection money. They compose poems of their deeds and mock other clans of the Banu Asera for having given up the “freedom” of black wool tents for stone houses in the oases. The other clans consider them boastful nuisances, though grudgingly respecting them as protectors of the old Aserai ways." />
     <string id="s0AVQCbJ" text="Togaroving" />
     <string id="sAbjtZbB" text="Forest Bandits" />
+    <string id="SCTf5cay" text="Vatatzes" />
     <string id="Ssl38GEF" text="Legion" />
     <string id="tA3IRBgv" text="Impestores" />
     <string id="tae3lhXh" text="The Company are Vlandians, mostly local levies who don't adjust well to peacetime and opted for a life of constant warfare. They are probably the least disciplined and most brigandish of Calradia's mercenaries, and a scourge to any bit of countryside where they are allowed to run loose. Still, like all mercenaries, they know that their future earnings depend on their reputation, so they honor their contracts and practice their skills, particularly with the crossbow, to ensure their employers receive their money's worth." />
@@ -101,7 +107,9 @@
     <string id="W2HkbCeX" text="Ubroving" />
     <string id="W9n5iPbB" text="Yanserit" />
     <string id="wFR1ukg9" text="Banu Qild" />
+    <string id="WssI6mOE" text="Kostoroving" />
     <string id="xahrUc5n" text="The Brotherhood of the Woods started as a Vlandian peasant movement, hiding out in the forests, robbing from the rich and giving to the poor. However, it encountered the problems that any long-running rebel movement might - it needed to ensure a steady supply of food, and also ensure that none of the poor would dare earn a bag of coins by informing on them. Slowly but surely, it began to make use of extortion, terror, and corrupt deals with the local authorities to survive, becoming little different from any other organized bandit group in Calradia." />
+    <string id="xbkYPXCt" text="Vetranis" />
     <string id="XJbDRBfd" text="The Karakhergit are a nomadic clan that has resisted all efforts by the centralizing Urkhunid khans to keep them in one place, give them farmlands and serfs, and force them to give over taxes and military levies. They are treated by the other clans with a combination of envy and contempt. They trade and sometimes even intermarry with their settled brethren, but they also do a limited amount of kidnapping for ransom and raiding of flocks, and scoff at those who would blame them for carrying on with the heroic old ways." />
     <string id="xqkKtWqa" text="Elaches" />
     <string id="xw0eTkkb" text="Vezhoving" />

@@ -6,6 +6,7 @@
   <strings>
     <string id="05fdfc6e238429753ef282f2ce97c1f8" text="Stack Amount: " />
     <string id="08abd5af7774d311cadc3ed900b47754" text="Type: " />
+    <string id="0mqdFC2x" text="Weapon Crafted!" />
     <string id="0Q4Xo2BQ" text="Select the Leader of the New Party" />
     <string id="0rBsbw1T" text="No effect" />
     <string id="13wo3QQB" text="Secondary" />
@@ -36,7 +37,6 @@
     <string id="5fa36d2798479803b4518a64beb4d732" text="Weapon Length: " />
     <string id="5Unqsx3N" text="Confirm" />
     <string id="63Ic1Ahe" text="Cost: {UPGRADE_COST} (You don't have)" />
-    <string id="68IlDbA2" text="You need to have {PERK_NAME} perk to upgrade a bandit troop to a normal troop." />
     <string id="6adabc1f82216992571c3e22abc164d7" text="Ammo Limit: " />
     <string id="6GSXsdeX" text="Speed" />
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Speed: " />
@@ -52,6 +52,7 @@
     <string id="9i0wnjJK" text="L-II : {BONUS}" />
     <string id="9slDj5wr" text="Change Production" />
     <string id="a241aacb1780599430c79fd9f667b67f" text="Party Morale: " />
+    <string id="a4GDfSel" text="Reset Tutorials" />
     <string id="a8nRxITn" text="Prisoner of {PARTY_NAME}" />
     <string id="aadiCuDe" text="{COMPLETION_PERCENT} (Approximately {DAYS} day to complete)" />
     <string id="AcMayd1p" text="Running from {TARGET_PARTY}." />
@@ -70,6 +71,7 @@
     <string id="BifGz0h4" text="Patrolling" />
     <string id="bnrRzeiF" text="Not Active" />
     <string id="bPFjmYCI" text="{SHOP_NAME} x {SHOP_DIFFERENCE_COUNT}" />
+    <string id="BqLsZhhr" text="Select an item to refine" />
     <string id="BrY8itaf" text="Your dispatched parties for issues / quests will show up here. They don't count towards your clan's party limit." />
     <string id="BV5exuPf" text="Remove From Bookmarks" />
     <string id="C2qpwFq5" text="Owner of {SETTLEMENTS}" />
@@ -92,6 +94,7 @@
     <string id="DAmdTxuC" text="Army Manage" />
     <string id="dD3kRDHi" text="This hero is a fugitive and running from their captors. They will will be available after some time." />
     <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}" />
+    <string id="DNXD37JL" text="Settlement's Days Until Food Runs Out" />
     <string id="dO95yR9b" text="Thrust Damage" />
     <string id="DPTPuyip" text="And {NUMBER} more..." />
     <string id="Dqydb21E" text=" {PARTY_SIZE}" />
@@ -102,6 +105,8 @@
     <string id="ebbyLN2i" text="Towns" />
     <string id="eHVq6yDa" text="Item Properties" />
     <string id="eIws123Z" text="Leg Armor" />
+    <string id="EkFDvG7z" text="Settlement Food Stocks" />
+    <string id="eoVW9z54" text="Average Morale" />
     <string id="EQHq3bHM" text="Travelling to {TARGET_PARTY}" />
     <string id="ErnykQEH" text="Outputs" />
     <string id="eTw2aNV5" text="+" />
@@ -136,10 +141,13 @@
     <string id="HURdAXDQ" text="Hideout Crew" />
     <string id="hylxyNtU" text="You don't have enough." />
     <string id="Hz8XO8wk" text="Governors cannot lead a mobile party and be a governor at the same time." />
+    <string id="I2sZ7K28" text="Are you sure want to reset tutorials?" />
+    <string id="i9OsCshW" text="This kingdom decision is not relevant anymore." />
     <string id="IagYTD5O" text="Prosperity" />
     <string id="IbqRyrKo" text="This will determine the initial active policies of the Kingdom. Choose Maximum 4 Policies." />
     <string id="IcgVKFxZ" text="Ruler" />
     <string id="idRXFzQ6" text="Already added to the army." />
+    <string id="Iefr8Fra" text="Tutorials have been reset." />
     <string id="IJdjwXvn" text="Current Level: " />
     <string id="Ioiqzz4E" text="You need to be in an army to boost cohesion" />
     <string id="ipLqVv1f" text="You cannot invite the ruler's party to your army." />
@@ -171,6 +179,7 @@
     <string id="KTTyBbsp" text="Max HP" />
     <string id="kWVbHPtT" text="Total" />
     <string id="kx7q8ybD" text="Arm Armor" />
+    <string id="laznt9ZK" text="Settlement Food Change" />
     <string id="LBNzsqyb" text="Fiefs" />
     <string id="lc9s4rLZ" text="Create Army" />
     <string id="LEiZWuZm" text="{SKILL_NAME}: {SKILL_VALUE}" />
@@ -205,8 +214,10 @@
     <string id="OkWLI5C8" text="Size:" />
     <string id="Oo3fkeab" text="Difficulty: " />
     <string id="OpzzCPiP" text="Following {TARGET_PARTY}" />
+    <string id="OSsSBHKe" text="Settlement's Food" />
     <string id="OTaPfaJl" text="{PARTY_2S_MEMBERS}   " />
     <string id="oUhd9YhP" text="{PARTY_LEADERS_FACTION}" />
+    <string id="oUz16Nav" text="Reset Tutorial" />
     <string id="p0nIO9c2" text="Workshop cannot be downgraded." />
     <string id="p7raHA9x" text="Refinement" />
     <string id="PAUsUq4Z" text="Select the Leader of the Settlement" />
@@ -226,6 +237,8 @@
     <string id="pWObBhj5" text="You cannot assign a party leader as a new governor of a settlement" />
     <string id="PXT6aA4J" text="Campaign Options" />
     <string id="q1J4a8rr" text="Learning Rate" />
+    <string id="Q8dhryRX" text="Parties' Food" />
+    <string id="QBB0KQ2Z" text="Parties' Average Morale" />
     <string id="QBPrRdQJ" text="Surgeon" />
     <string id="qBq70qDq" text="Current Project" />
     <string id="QeToaiLt" text="Swing Damage" />
@@ -250,7 +263,9 @@
     <string id="rsHPaaYZ" text="Cohesion needs to be lower than {MINAMOUNT} to boost" />
     <string id="rThSy9ed" text="Required: {UPGRADE_ITEM} (You have none)" />
     <string id="RuaA8t97" text="Kingdom Name" />
+    <string id="rUeWBOOi" text="Select an item to smelt" />
     <string id="RVPidk5a" text="Influence" />
+    <string id="rwKBR4NE" text="Average Days Until Food Runs Out" />
     <string id="s31DnnAf" text="Damage" />
     <string id="s5b77f0H" text="Add +{BOOSTAMOUNT} cohesion to your army" />
     <string id="s6koeapc" text="{MAP_FACTION}" />
@@ -316,6 +331,7 @@
     <string id="xXSFaGW8" text="Disband" />
     <string id="XYAVu2f0" text="Chasing {TARGET_PARTY}." />
     <string id="XzggyCPW" text="This hero is busy." />
+    <string id="Y7qbwrWE" text="{HERO_NAME}'s Skills" />
     <string id="YbGu9rSH" text="This character is already the governor of {SETTLEMENT_NAME}" />
     <string id="ybLA7ZXp" text="Already at Max" />
     <string id="YifFZaG7" text="Party Owner" />
@@ -326,6 +342,7 @@
     <string id="zawBaxl5" text="Distance : {DISTANCE}" />
     <string id="ZcybPatO" text="Weapon Length" />
     <string id="zMMqgxb1" text="Type" />
+    <string id="zrhr4rDA" text="Are you sure you want to disband this army? This will result in relation loss." />
     <string id="ZUgoQ1Ws" text="Horse Type" />
     <string id="zWaCtOJU" text="{SETTLEMENTS}" />
     <string id="zWaVxD6T" text="Party Speed" />

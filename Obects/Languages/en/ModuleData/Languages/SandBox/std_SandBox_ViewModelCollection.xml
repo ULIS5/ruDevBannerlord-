@@ -33,6 +33,7 @@
     <string id="lPMYSSAa" text="Tools Required" />
     <string id="mDFhzEMC" text="Max. Hit Points" />
     <string id="nvemmBZz" text="You earned {AMOUNT}% of the loot and prisoners" />
+    <string id="nVGqjtaa" text="Campaign {ID}" />
     <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT}w" />
     <string id="oBbiVeKE" text="Hit Points" />
     <string id="Q1HIlJxe" text="Overwrite" />
@@ -42,6 +43,7 @@
     <string id="R2AaCaPJ" text="Expected Change" />
     <string id="raD9MK3O" text="Difficulty" />
     <string id="RVPidk5a" text="Influence" />
+    <string id="uncategorized_save" text="Uncategorized" />
     <string id="V4iU0wRv" text="Gold" />
     <string id="WAKz9xX8" text="You gained {A0} morale." />
     <string id="WDlVhNuq" text="Name your save file" />

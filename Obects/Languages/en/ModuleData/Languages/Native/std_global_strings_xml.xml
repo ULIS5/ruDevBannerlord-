@@ -23,11 +23,11 @@
     <string id="2bPTx7So" text="Your character goes to crouching state." />
     <string id="2e8wI3EM" text="Equip Weapon 2" />
     <string id="2EjZcRgF" text="F5" />
+    <string id="2EnLU2ZC" text="Change UI Scaling" />
     <string id="2h2148cq" text="Send Message To Everyone" />
     <string id="2ZJQylWo" text="Switch between run and walk modes." />
     <string id="3Dngsvya" text="Move Forward" />
     <string id="3Gb7tKgJ" text="{LEFT} and {RIGHT}" />
-    <string id="3MLvkSjw" text="Report Shot Difficulty" />
     <string id="3nTeojbI" text="=" />
     <string id="3oUbmqJY" text="Synchronizes the game to the monitor's refresh rate. Eliminates tearing artifacts." />
     <string id="3P7eDKEY" text="Equip Item 4" />
@@ -80,6 +80,7 @@
     <string id="8WrQ9fnb" text="C" />
     <string id="929oYf3G" text="Zoom Out" />
     <string id="92ZztgDd" text="Decal Quality" />
+    <string id="9bHr3oNj" text="Crosshair that shows when using a ranged weapon." />
     <string id="9F323ez4" text="Trilinear" />
     <string id="9gAVbJAR" text="Resume Time" />
     <string id="9hRcH7kV" text="Sun Shafts" />
@@ -109,6 +110,7 @@
     <string id="avDb6Y66" text="Middle Mouse Button" />
     <string id="aWDfG0RO" text="F3" />
     <string id="aydCb7WA" text="Medium" />
+    <string id="ayYYRfPP" text="Report Personal Damage" />
     <string id="Az084VJK" text="Defend" />
     <string id="b1OtYhnF" text="Texture Filtering" />
     <string id="b9rDOY21" text="SelectOrder2" />
@@ -131,6 +133,7 @@
     <string id="C7zwur4k" text="Escape" />
     <string id="cAkgnVr5" text="Num Lock" />
     <string id="CbwmI1JY" text="Enables the depth of field." />
+    <string id="CfjTvLNl" text="Finalize Chat" />
     <string id="combatkick" text="Kick / Bash" />
     <string id="controlgamekey" text="Control" />
     <string id="cp80Mq2W" text=";" />
@@ -181,13 +184,12 @@
     <string id="g4Iq82iw" text="Open team chat." />
     <string id="g4VjAbMG" text="J" />
     <string id="G8ug5Bwx" text="Chat" />
-    <string id="gAJHtTK2" text="Enable text reports for hit difficulty rate of ranged weapons." />
     <string id="gCDjIGB6" text="Show Blood" />
     <string id="Gd2iUUHa" text="Sets the render quality of particles. A higher value means sharper particles." />
-    <string id="GgUBPvBH" text="Enable showing banners on friendly troops." />
     <string id="gIsqhwTs" text="First Person Field of View" />
     <string id="Gl2S6WEW" text="Sets the monitor that the game window will be displayed." />
     <string id="Gl7wgtPQ" text="Move Party Up" />
+    <string id="gu2JU5zq" text="Crosshair Type" />
     <string id="GxHV8b1b" text="Numpad 1" />
     <string id="gzMIzYTF" text="Game Log Window" />
     <string id="h6wUbray" text="Number Of Corpses" />
@@ -251,6 +253,7 @@
     <string id="Ju6btXsv" text="Control Attack Direction" />
     <string id="jvOYgHOe" text="Custom" />
     <string id="JXdwIX8Q" text="Set thickness for trails of ranged weapons." />
+    <string id="JZFXI1LK" text="UI Scale" />
     <string id="jZs8I1Uq" text="Enables the film grain." />
     <string id="JZYQGUF3" text="Down Double Press: Sudden Break" />
     <string id="k3CLKsrz" text="By Mouse Movement" />
@@ -309,6 +312,7 @@
     <string id="NN7DHB1A" text="Group 1 Hear" />
     <string id="o0QPZODk" text="Move Party Left" />
     <string id="o8WjGqS4" text="Z" />
+    <string id="O9ed2AWr" text="Finalize message if chat box is active. Otherwise, activate chat box." />
     <string id="ocNVbyPJ" text="Borderless Fullscreen" />
     <string id="odsVjkbO" text="Open Inventory." />
     <string id="oEdTBobd" text="Anisotropic 2X" />
@@ -345,6 +349,7 @@
     <string id="QBzjt1c4" text="Extended Key 1" />
     <string id="qggjceRq" text="Sound Output" />
     <string id="QiYy3Ja4" text="Select Order Return" />
+    <string id="qmplQd0Q" text="Three Part" />
     <string id="qnxJYAs7" text="Party" />
     <string id="qOcw1xap" text="Page Down" />
     <string id="QoGjzEwI" text="Move Back" />
@@ -410,6 +415,7 @@
     <string id="TybJcG0A" text="Very Low (64) " />
     <string id="u2dQaVY2" text="Equip the item in your third slot." />
     <string id="U5xKAHGi" text="Bloom" />
+    <string id="u6QCWQvu" text="Four Part" />
     <string id="u7FkCtRN" text="Group 0 Hear" />
     <string id="U8NaF1bo" text="Calibrate" />
     <string id="Uaae1eBV" text="Right Double Press: Sudden Right" />
@@ -426,7 +432,6 @@
     <string id="UqB9zKfE" text="Equip Primary Weapon" />
     <string id="uQfDuGem" text="Character Zoom Out" />
     <string id="urbLiiQJ" text="Configure Exposure" />
-    <string id="urSa4wQG" text="Show Banners On Friendly Troops" />
     <string id="uRXlSUVh" text="N" />
     <string id="uSGPBRFS" text="Zoom" />
     <string id="USKys6FV" text="Show Mouse" />
@@ -442,6 +447,8 @@
     <string id="VAtNIoKC" text="L" />
     <string id="Ve99pCSo" text="Cloth Simulation" />
     <string id="VE9TavSl" text="Sets the decal quality." />
+    <string id="Vea6bRUO" text="Enable interface elements that report players damage and casualities in center bottom." />
+    <string id="vJ41v8zh" text="Friendly Troops Banner Opacity" />
     <string id="Vpy2qEcN" text="By Movement Keys" />
     <string id="vT3yIxmO" text="Numpad 4" />
     <string id="vXvmeGhm" text="Shadow Type" />
@@ -517,6 +524,7 @@
     <string id="ZewnkWoO" text="G" />
     <string id="Zgs47DHB" text="Caps Lock" />
     <string id="ZIKuUbUG" text="Sets the number of simultaneous ragdoll simulations." />
+    <string id="ZKg3DqbQ" text="Determines the opacity of the banners shown on top of the friendly troops." />
     <string id="znSZmZvV" text="Map Move Right" />
     <string id="Zo2ngsUk" text="Open Face Generation." />
     <string id="zofULNb8" text="Equip Secondary Weapon" />

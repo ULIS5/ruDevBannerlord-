@@ -291,7 +291,6 @@
     <string id="DI9P2HDG" text="Stacked Bodkin Arrows" />
     <string id="dIfcfMbY" text="Studded Leather Waistcoat" />
     <string id="Dj64aJKQ" text="Billhook" />
-    <string id="DJjCCQ59" text="battanian_savage_armor" />
     <string id="dkuzrKJF" text="Fine Pike" />
     <string id="DlHkNiJA" text="Highland Dress" />
     <string id="dLLD8bVX" text="Rugged Desert Saddle" />
@@ -445,6 +444,7 @@
     <string id="HVcwvRMF" text="Reinforced Highland Spear" />
     <string id="HwO0AYul" text="Broad Ridged Shortsword" />
     <string id="hXijcZyp" text="Roughcloth Shortcoat" />
+    <string id="hyagO05b" text="Sparring Targe" />
     <string id="hyNitMsQ" text="Highland Fine Steel Blade" />
     <string id="hytuHaoA" text="Studded Bound Kite Shield" />
     <string id="hz87PBsa" text="Wide Leaf Spear" />
@@ -622,6 +622,7 @@
     <string id="N28bDEhh" text="Fine Steel Hewing Spear" />
     <string id="N2S0Uj8R" text="Western Simple Spear" />
     <string id="n3sz2k5j" text="Knights Kite Shield" />
+    <string id="NbdbCwIB" text="Blunt Iron Broadsword" />
     <string id="nBU3EXp6" text="Highland Shoulder Straps" />
     <string id="ndfDy5B8" text="Tied Head Wrapping" />
     <string id="NEupkuqV" text="Desert Headscarf" />
@@ -850,6 +851,7 @@
     <string id="v6W9XaDI" text="Old Fur Armor" />
     <string id="V7U0fFU9" text="Highland Scale Mail" />
     <string id="v7WQhge3" text="Decorated Sabre" />
+    <string id="V7yH6vyz" text="Battanian Wilding Armor" />
     <string id="VAcSEseI" text="Wide Fullered Broad Arming Sword" />
     <string id="VAO11FSu" text="Thamaskene Steel Two Hander" />
     <string id="VbAHQ1BS" text="Long Fur Coat" />
@@ -898,6 +900,7 @@
     <string id="WahziEXA" text="Wrapped Leather Boots" />
     <string id="WaQOFmas" text="Imperial axe" />
     <string id="wBfGpcCO" text="Kettle Hat Over Padded Cloth" />
+    <string id="WbjNNE8Z" text="Highland Reinforced Fian Mail" />
     <string id="WCbpw1wM" text="Heavy Nasalhelm Over Imperial Padding" />
     <string id="WdZTrPpG" text="Highland Mail Shoulders" />
     <string id="wEfZyccm" text="Full Helm Over Laced Coif" />
@@ -942,6 +945,7 @@
     <string id="XbwDj80t" text="Steppe Arrows" />
     <string id="XDsFl200" text="Imperial Lance" />
     <string id="XGX6DbFL" text="Lamellar Plate Gauntlets" />
+    <string id="XGytILlt" text="Grapeshot Ammo" />
     <string id="XH9f3yOX" text="Fur Waistcoat Over Tunic" />
     <string id="XkwOTdVQ" text="Celtic Frost" />
     <string id="xkX9T0yT" text="Loose Wrapped Southern Helmet" />
@@ -1007,6 +1011,7 @@
     <string id="ZbsGBv10" text="Hog" />
     <string id="zBUT90xQ" text="Thamaskene Steel Kaskara" />
     <string id="Ze9u7Saj" text="Iron Feathered Spangenhelm Over Mail" />
+    <string id="ZeU1fvdz" text="Grapeshot Stack" />
     <string id="ZEybMjoq" text="Northern Roughhide Cap" />
     <string id="ZFde57gC" text="Rugged Highland Saddle" />
     <string id="ZFETxZKP" text="Kefiyyeh With Silken Band" />

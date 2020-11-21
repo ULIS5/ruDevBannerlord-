@@ -82,7 +82,7 @@
     <string id="3E0ZXV7j" text="Decision Outcome" />
     <string id="3F35l4QF" text="Number of Healthy Defender Soldiers" />
     <string id="3fAm8FaM" text="So be it... As my father says, a journey's not worthy of the name if you don't to kill anyone." />
-    <string id="3FUaZk5A" text="My lady," />
+    <string id="3FUaZk5A" text="My lady" />
     <string id="3Gb7tKgJ" text="{LEFT} and {RIGHT}" />
     <string id="3IGjY8RG" text="Skirmish freely" />
     <string id="3IpiWM7H" text="Bandit" />
@@ -150,6 +150,7 @@
     <string id="5QN7SFNW" text="III" />
     <string id="5rj7xQE4" text="Bow" />
     <string id="5RSfkx7d" text="Gathering of your army may take some time." />
+    <string id="5siAbi69" text="Mu Torere" />
     <string id="5sMBbn7y" text="Calculating" />
     <string id="5SQaiYXi" text="FOUL! No hitting your opponent's horse. You have been disqualified!" />
     <string id="5T7nyzda" text="I am glad to hear that. Killing is thirsty work for us too." />
@@ -196,6 +197,7 @@
     <string id="7mRN2br0" text="Leadership of the formation has been given to {HERO_NAME}." />
     <string id="7MWaMaez" text="Here's what we've got: {ITEM_LIST}. Take them, but let us live." />
     <string id="7oJ9gIeT" text="Trader does not have enough money." />
+    <string id="7pAZatbz" text="{?RULER.GENDER}Empress{?}Emperor{\?} {RULER.NAME}" />
     <string id="7sUhWG0E" text="Thrust Damage: " />
     <string id="7sZMMYbe" text="Minor Faction" />
     <string id="7t1daAel" text="Bad decision, friend.[if:idle_furious][ib:aggressive][rb:very_negative]" />
@@ -346,6 +348,7 @@
     <string id="BANC61K5" text="Previous Character" />
     <string id="bB4602W2" text="Thrust {THRUST_DAMAGE_TYPE} Damage: " />
     <string id="bBXGPgwe" text="my daughter {REFERING_HERO.LINK}" />
+    <string id="BbYFboh2" text="{RULER.NAME} {?RULER.GENDER}Begum{?}Beg{\?}" />
     <string id="bC5aMfG0" text="Villages" />
     <string id="bcmlu1ml" text="{?ASKED_LORD.GENDER}She{?}He{\?} is prisoner of {PRISON_PARTY_LEADER.LINK}." />
     <string id="BD8Mi02a" text="{ASKED_LORD.LINK} is currently fugitive." />
@@ -679,7 +682,6 @@
     <string id="H0o13D7a" text="Shops" />
     <string id="H1emUb6k" text="Age:" />
     <string id="H4rAiNlf" text="You bet {BET_AMOUNT} on yourself and you won the fight. Here is your reward {REWARD_AMOUNT}{GOLD_ICON}." />
-    <string id="h55xdL1l" text="MuTorere" />
     <string id="h60wQVVX" text="Pike" />
     <string id="h6AJXR2e" text="Are you sure to retreat your party?" />
     <string id="h8Bcd7NE" text="{FACTION} Ruler Election" />
@@ -740,10 +742,10 @@
     <string id="IbkODMHV" text="Spot tracks and hideouts. Travel through difficult terrain. (Scout)" />
     <string id="IcgVKFxZ" text="Ruler" />
     <string id="iCirZbD8" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} shooting from the castle walls." />
-    <string id="icmyseoo" text="My lord," />
+    <string id="icmyseoo" text="My lord" />
     <string id="IcQ2doLo" text="x{QUANTITY}" />
     <string id="id62me1x" text="Press &quot;Besiege&quot;" />
-    <string id="IdUKVyoF" text="{FIRST_NAME} the {JOB_NAME}" />
+    <string id="IdUKVyoF" text="{HERO.FIRSTNAME} the {JOB_NAME}" />
     <string id="IF7zS5ia" text="You're over your prisoners limit.{newline}You will temporarily keep your prisoners but after some time they will quickly escape your party. You will also slow down.{newline}Are you sure?" />
     <string id="iFg5N7r3" text="One Handed Weapon" />
     <string id="Igoid3sR" text="Propose to expel this clan from the kingdom ({SUPPORT}%)" />
@@ -820,6 +822,7 @@
     <string id="JkpSoFQ8" text="Casualties Inflicted" />
     <string id="JkVV4vUs" text="Click on the talk button to start conversation." />
     <string id="jlgjLDo7" text="Garrison" />
+    <string id="jM9KGCIa" text="{?RULER.GENDER}Emira{?}Emir{\?} {RULER.NAME}" />
     <string id="JnoB0RZ4" text="Execute {?DYING_HERO_GENDER}Her{?}Him{\?}" />
     <string id="jnTQbSsH" text="You see people gathering in the village to resist you. What do you want to do?" />
     <string id="joICaqvo" text="Unassigned" />
@@ -907,6 +910,7 @@
     <string id="LApMSsnb" text="Focus Points" />
     <string id="laV5aNhK" text="Unique" />
     <string id="lAWwcO6b" text="Kingdom of Vlandia" />
+    <string id="lb13ceVM" text="{?RULER.GENDER}High Queen{?}High King{\?} {RULER.NAME}" />
     <string id="lbdSaDpI" text="Time Remaining" />
     <string id="lBn2pSBL" text="Members" />
     <string id="LBNzsqyb" text="Fiefs" />
@@ -927,6 +931,7 @@
     <string id="lockverb" text="Lock" />
     <string id="Lp0byzGQ" text="I" />
     <string id="lpbDPuuW" text="{?RULER.GENDER}the Empress{?}the Emperor{\?} {RULER.NAME}" />
+    <string id="lqm9PfF1" text="{?RULER.GENDER}Knyaginya{?}Knyaz{\?} {RULER.NAME}" />
     <string id="lqMQ6GXj" text="Surplus Food" />
     <string id="lQQPKo02" text="Move to screen us against foes moving behind our back" />
     <string id="lRAaUTjs" text="Drop" />
@@ -1005,6 +1010,7 @@
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}are{?}is{\?} pulling back." />
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})" />
     <string id="NaAA5kjG" text="Consider making peace, receiving {TRIBUTE} tribute/day. (Support: {SUPPORT}%)" />
+    <string id="nAaT19CC" text="{?RULER.GENDER}Archoness{?}Archon{\?} {RULER.NAME}" />
     <string id="NaorUInI" text="Understrength Parties" />
     <string id="nbBgbwM2" text="In Queue: {NUMBER}" />
     <string id="NbgeKwVr" text="Workshops" />
@@ -1027,6 +1033,7 @@
     <string id="nnr8sANN" text="{PARTY_LIST_TAG}({COUNT} + {WEAK_COUNT}w)" />
     <string id="nNRKCYpR" text="Lands around settlement" />
     <string id="NnZ5w9zm" text="{NUM1} ({NUM2})" />
+    <string id="nojcK4ia" text="{?RULER.GENDER}Grand Princess{?}Grand Prince{\?} {RULER.NAME}" />
     <string id="NqarFr4P" text="Options" />
     <string id="NQbqtEqP" text="Cost: {COUNT}" />
     <string id="NqSLYe6b" text="Renown:" />
@@ -1161,6 +1168,7 @@
     <string id="Q3KrMlLd" text="CHARGE!" />
     <string id="q3mOBLFn" text="Choosing Skill Focus" />
     <string id="Q67Wys0i" text="Patrolling around {SETTLEMENT_NAME}" />
+    <string id="q6P6bdbC" text="Quick Talk" />
     <string id="Q7ONA10T" text="&lt;b&gt;Trebuchet&lt;/b&gt;{NEWLINE}Somewhat inaccurate but devastating against walls." />
     <string id="Q8mI3b4K" text="No Policy Selected" />
     <string id="QA8Gm9PY" text="A hot day, is it not? Don't tire yourself fighting. Give us what we want and we'll leave." />
@@ -1228,6 +1236,7 @@
     <string id="REdb7vbQ" text="{?RULER.GENDER}Sultana{?}Sultan{\?} {RULER.NAME}" />
     <string id="redwEIlW" text="Quartermaster" />
     <string id="rFvEZJu7" text="{ITEM_NAME} has been added to {PLAYER.LINK}'s inventory." />
+    <string id="rGNrtXSx" text="You have arrived at {SETTLEMENT} to defend the castle from attackers." />
     <string id="RGqPxabq" text="Power" />
     <string id="rHSjMjWX" text="Resolve Decision" />
     <string id="RiXlbtfl" text="k" />
@@ -1411,6 +1420,7 @@
     <string id="vdEoBkpr" text="You must maintain food supplies at all times. If you run out of food, your party will lose morale. Your troops may desert you because of low morale.{newline}{newline}You can see your food reserve on the info bar. Hover over it to see how much food your party consumes each day. Since your party needs food, go to marketplace now to purchase some." />
     <string id="vdK5SaJN" text="Mm. Pity.[ib:aggressive][rb:very_negative]" />
     <string id="vdKLq8T5" text="Walls{newline}Level {LEVEL}" />
+    <string id="veiFupWz" text="{?RULER.GENDER}Baroness{?}Baron{\?} {RULER.NAME}" />
     <string id="VeOqrmx5" text="{LEFT}{FOCUS_ICON}{RIGHT}" />
     <string id="VeqwXwYc" text="Enemies are fleeing. You won the battle." />
     <string id="vgXYtMrj" text="Battle Survivors" />
@@ -1497,6 +1507,7 @@
     <string id="wZnsFoQ6" text="I don't think we have met properly my friend. You just saved my life out there, and I still don't know your name..." />
     <string id="X1tny9v2" text="Successful Raids" />
     <string id="x2mSJAVa" text="A player wins if his opponent has only one or no pawns left.{newline}{newline}Another way to win is by constructing a barrier that has all of the pawns of the opposing player on one side. When a barrier has been constructed, the player with the most pawns left wins." />
+    <string id="X4qO3jBf" text="{?RULER.GENDER}Banmormaer{?}Mormaer{\?} {RULER.NAME}" />
     <string id="XAbeeOQo" text="You can weaken the enemy by raiding its villages. This looks like a good target to raid." />
     <string id="XaFXqGhz" text="Bullets" />
     <string id="xaHELVnx" text="Siege Tower (Level 1)" />
@@ -1628,7 +1639,7 @@
     <string id="znxbib0f" text="Show stats for this usage" />
     <string id="zo5hQfll" text="The wolves win if they can remove 5 sheep from the board.{newline}{newline}The sheep win if they can block the wolves so they can't make any more moves." />
     <string id="zpaLDTI4" text="Pay, and you may pass." />
-    <string id="ZPaw3WuO" text="The Vlandians are the descendants of adventurers from the west who lived under the Empire for centuries before forming an independent kingdom. With the decline of imperial authority, they have evolved into a well organised feudal society led by a cast of warlike nobles who prefer to fight with spears and lances on horseback." />
+    <string id="ZPaw3WuO" text="The Vlandians are the descendants of adventurers from the west who lived under the Empire for centuries before forming an independent kingdom. With the decline of imperial authority, they have evolved into a well organised feudal society led by a caste of warlike nobles who prefer to fight with spears and lances on horseback." />
     <string id="zqihwKAs" text="&lt;b&gt;Ballista&lt;/b&gt;{NEWLINE}Shoots bolts at deadly effect. Effective against soldiers." />
     <string id="ZqWOb1jM" text="You are outside the town of {SETTLEMENT_NAME}. You cannot enter because you are wanted by the {FACTION_TERM}." />
     <string id="ZR2bAa1p" text="Light Cavalry" />

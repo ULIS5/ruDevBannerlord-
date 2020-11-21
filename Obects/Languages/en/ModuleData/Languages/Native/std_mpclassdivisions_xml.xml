@@ -8,13 +8,13 @@
     <string id="0Uvkm46I" text="Grants Sword, effective at dueling and thrusting." />
     <string id="0yGhTKey" text="Grants Extra Arrows." />
     <string id="14Lfo4sB" text="Stronger Javelins" />
-    <string id="1dTipfgq" text="Replaces Voulge with Military Bill, a polearm." />
     <string id="1nZaud4o" text="Replaces Menavlion with Long Menavlion, longer but slower." />
     <string id="1xa1a0d2" text="Replaces Shield with a larger shield." />
     <string id="25f3yj3M" text="Longer Sword" />
     <string id="2bzFzemV" text="Heavier Crossbow" />
     <string id="2JZakvPJ" text="Replaces Menavlion with Heavy Menavlion, slower but deals more damage." />
     <string id="3ksDHRKT" text="Grants Eastern Long Spear, a two handed long spear." />
+    <string id="4eFFdbbh" text="Replaces Voulge with Two Handed Sword, effective at dueling and thrusting, two handed." />
     <string id="4wdgiTta" text="Sickle" />
     <string id="5JQFx3EW" text="Replaces mount with a faster and more maneuverable horse." />
     <string id="5pLEUc4t" text="Strong Arrows" />
@@ -48,7 +48,6 @@
     <string id="bsabIdYm" text="Two Handed Axe" />
     <string id="bwLknWjn" text="Replaces Javelins with Imperial Javelins, deals more damage, can be used in melee." />
     <string id="bY9U7w1Q" text="Sword" />
-    <string id="bzCoIgk7" text="Military Bill" />
     <string id="bzdCMVuG" text="Cavalry Mace" />
     <string id="bzr6vtXi" text="Heavy Menavlion" />
     <string id="C2XqmIAQ" text="Replaces Recurve Bow with Composite Bow, more accurate, deals more damage but slower." />
@@ -75,6 +74,7 @@
     <string id="eyCVSK43" text="Heavy Lance" />
     <string id="F49w1uD0" text="Replaces Axe with Heavy Axe, deals more damage but shorter." />
     <string id="FaW2RuA8" text="Extra Throwing Spears" />
+    <string id="FfpqIuV8" text="Replaces Voulge with a Sword and Shield combination. Grants versatility and protection." />
     <string id="FLBYsvxp" text="Long Sword" />
     <string id="g3EFq1ld" text="Better Javelins" />
     <string id="g7DvxQYg" text="Grants Heavy Scimitar, deals more damage, longer but slower." />
@@ -119,7 +119,7 @@
     <string id="n3q8k0lB" text="Barding" />
     <string id="n497RC1p" text="(TEMPORARY)Grants faster arrows." />
     <string id="NiaLmb1S" text="Replaces Hunting Bow with Short Bow, deals more damage but slower." />
-    <string id="nSSxEIvF" text="Grants a light shield, good for faster movement." />
+    <string id="nSSxEIvF" text="(TEMPORARY) Grants a light shield, good for faster movement." />
     <string id="o6eKX9h0" text="Replaces Axe with Mace, effective against armored opponents." />
     <string id="okGD2Dbu" text="Replaces Hunting Bow with Recurve Bow, deals more damage but slower." />
     <string id="OPcPYoHu" text="Throwing Axes" />
@@ -164,7 +164,6 @@
     <string id="UtJlbDuv" text="Replaces Recurve Bow with Imperial Superior Bow, faster." />
     <string id="uw9m5hav" text="Better Axe" />
     <string id="Uwe3VHaN" text="Heavy Cavalry Sword" />
-    <string id="UWScBrli" text="Replaces the two handed weapon with a Sword and Shield combination." />
     <string id="V2SKzX1e" text="Charger Horse" />
     <string id="v61Qq3SH" text="Replaces Light Crossbow with a heavier Crossbow, better damage." />
     <string id="vBvDZCtw" text="Replaces Tabar with Two Handed Sword, effective at dueling and thrusting." />

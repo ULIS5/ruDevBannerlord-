@@ -8,6 +8,7 @@
     <string id="0GkJB08d" text="Sturgian Veteran Caravan Guard" />
     <string id="0Xku0LQD" text="Sturgia Peasant" />
     <string id="1gAasy1t" text="Lake Rat Veteran" />
+    <string id="1i0Ttr8H" text="Sturgian Otroki" />
     <string id="1PsLlMaQ" text="Imperial Equite" />
     <string id="1WfDVpya" text="Sturgian Archer" />
     <string id="1zObCG2o" text="Battanian Fian Champion" />
@@ -41,7 +42,6 @@
     <string id="9GIK6fnm" text="Kradus" />
     <string id="9Ylw5Spz" text="Boar Veteran" />
     <string id="9zXXes9i" text="Beni Zilal Soldier" />
-    <string id="a9b2fKYR" text="Sturgian Berserker" />
     <string id="abFIj4ZW" text="Battanian Mounted Skirmisher" />
     <string id="ac8MZYne" text="Battanian Hero" />
     <string id="acubGB3g" text="Vlandian Hardened Crossbowman" />
@@ -52,7 +52,6 @@
     <string id="arb5nRri" text="Aserai Tribesman" />
     <string id="AssCCFew" text="Mercenary Horseman" />
     <string id="aUHtqC9o" text="Vlandian Militia Spearman" />
-    <string id="auxU5OGA" text="Sturgian Warrior Son" />
     <string id="B4ls6R2b" text="Aserai Master Archer" />
     <string id="b4QPaEnA" text="Battanian Militia Archer" />
     <string id="B7oI7AZG" text="Khuzait Khan's Guard" />
@@ -69,12 +68,15 @@
     <string id="bTApMxWr" text="Vlandian Banner Knight" />
     <string id="Btb7p3mD" text="Battanian Fian" />
     <string id="bYn4ad1t" text="Expert Oath Keeper" />
+    <string id="byPNCb5e" text="Sturgian Heavy Spearman" />
     <string id="c5rVdg75" text="Imperial Militia Veteran Spearman" />
+    <string id="C8hwcOdF" text="Mounted Pillager" />
     <string id="CAYZDsAj" text="Legionary" />
     <string id="Cc3knKFB" text="Palace Guard" />
     <string id="CDUvlu4d" text="Imperial Palatine Guard" />
     <string id="cEKbOxRA" text="Veteran Eleftheroi" />
     <string id="CfO7eDsv" text="Sturgian Spearman" />
+    <string id="CJxF6fky" text="Sturgian Heroic Line Breaker" />
     <string id="CKoq1wQa" text="Khuzait Militia Archer" />
     <string id="cMcGn6n3" text="Expert Guardian" />
     <string id="cOt1onbR" text="Triarii" />
@@ -115,6 +117,7 @@
     <string id="guardnoun" text="Guard" />
     <string id="GUQ3zfg2" text="Battanian Volunteer" />
     <string id="Gvy2b4fa" text="Aserai Youth" />
+    <string id="Gwba5yPA" text="Sturgian Heavy Axeman" />
     <string id="gyvXsXs8" text="Battanian Wildling" />
     <string id="gZ4JeEw4" text="Sturgian Militia Veteran Archer" />
     <string id="H5HJUejD" text="Aserai Recruit" />
@@ -133,7 +136,7 @@
     <string id="IxcCmtxz" text="Battanian Militia Veteran Spearman" />
     <string id="iXjMfCyp" text="Khuzait Horseman" />
     <string id="IZ8OmByJ" text="Imperial Trained Infantryman" />
-    <string id="iZqYAIQy" text="Sturgian Shock Troop" />
+    <string id="J6Yksji5" text="Mounted Ransacker" />
     <string id="jaK1A7CI" text="Aserai Faris" />
     <string id="jFQPRvLg" text="Huskarl Swordsman" />
     <string id="JGsUtBT3" text="Imperial Legionary" />
@@ -143,7 +146,6 @@
     <string id="JVG0zC4e" text="Aserai Mameluke Heavy Cavalry" />
     <string id="jx8ohENz" text="Armorer" />
     <string id="jxNe8lH2" text="Caravan Guard" />
-    <string id="k4EiLrU0" text="Sturgian Ulfhednar" />
     <string id="KAJKOooN" text="Khuzait Heavy Horse Archer" />
     <string id="kih9DwL4" text="Vlandian Crossbowman" />
     <string id="KnhpjA7Y" text="Koleman" />
@@ -224,6 +226,7 @@
     <string id="S9z09NaN" text="Veteran Borrowed Troop" />
     <string id="SAILNYbu" text="Vlandian Infantry" />
     <string id="SaqVvzyV" text="Mercenary Cavalry" />
+    <string id="Sc1d2lsH" text="Sturgian Line Breaker" />
     <string id="SDRIahK8" text="Crazy Man" />
     <string id="Si5ZCb1O" text="Vlandian Pikeman" />
     <string id="sMI3wMZu" text="disguise_equipment_set" />
@@ -279,7 +282,6 @@
     <string id="xaYwo9tM" text="Mercenary Scout" />
     <string id="XgjXfmM1" text="Prison Guard" />
     <string id="xIFHLI66" text="Karakhuzait Nomad" />
-    <string id="xiuAStPO" text="Sturgian Veteran Warrior" />
     <string id="xnzpQbwQ" text="Sturgian Horse Raider" />
     <string id="XzDObEiH" text="Vlandian Squire" />
     <string id="YE4RGuzU" text="Vlandian Veteran Caravan Guard" />
