@@ -95,7 +95,6 @@
     <string id="3tJq5QyQ" text="{HEALTHY_NUM}+{WOUNDED_NUM}р"/>
     <string id="3TXGG01D" text="Хорошее решение, {?PLAYER.GENDER}madam{?}sir{\?}. Мои парни знают, как держать свое слово и зарабатывать свои деньги.[rb:very_positive]"/>
     <string id="3uR8wLko" text="наш вассал {REFERING_HERO.LINK}"/>
-    <string id="3V0bvyLC" text="{STR1}{STR2}"/>
     <string id="3vT6TQmF" text="{PLAYER.LINK}, Вы в {SIDE_STRING} {CLASS_NAME}."/>
     <string id="3wS4uOvU" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} нападают сзади."/>
     <string id="3xeuA9VP" text="+{TROOP_AMOUNT} Отряд{?ISPLURAL}ы{?} {\?} к Поселению"/>
@@ -288,7 +287,6 @@
     <string id="aiX4b5kS" text="Выполненные Задания"/>
     <string id="AIYWSAyK" text="Получайте прибыль от торговли. Сопровождайте караваны."/>
     <string id="aJoNj6JX" text="Сражайтесь с коротким двуручным оружием."/>
-    <string id="aJQQnshf" text="Налог с населения:"/>
     <string id="aJXhsjmT" text="Привет, путешественник. Если ты не хочешь, чтобы твои кости остались в песке для корма шакалов, отдай нам то, чего мы потребуем."/>
     <string id="ajZTZoXQ" text="Двуручная Булава"/>
     <string id="AkgIYqHT" text="султанша"/>
@@ -347,7 +345,6 @@
     <string id="bFpLKvcS" text="Хан"/>
     <string id="bfQLwMUp" text="Кланы"/>
     <string id="BfQrnvpC" text="Создание Армии"/>
-    <string id="bfsJfrtk" text="{LEFT}{RIGHT}"/>
     <string id="BftxIurV" text="Вам необходимо разрешить {DECISION_NAME} проблему."/>
     <string id="bg6x6Hbv" text="Шлем"/>
     <string id="Bg83jhCR" text="Город явно переживает не лучшие времена."/>
@@ -430,7 +427,7 @@
     <string id="CKR7PhRI" text="Враждебные Армии"/>
     <string id="CkwERBcS" text="Стычка позади формирования союзника."/>
     <string id="cMrROb6w" text="Доступный Задание"/>
-    <string id="CODsu5Ok" text="Новая Кампания"/>
+    <string id="CODsu5Ok" text="Кампания"/>
     <string id="COhJ2HsU" text="Это автоматически будет решение через {HOUR} часов."/>
     <string id="CoHPb7DL" text="Наш план состоит в том, чтобы раздавить их нашей конницей и снести остальных последующей атакой."/>
     <string id="cpaUPZ4c" text="Проезд по этой земле не бесплатный, и плата выплачивается нам, так что если вы не возражаете, мы просто заберем задолженность из вашего кошелька..."/>
@@ -698,7 +695,6 @@
     <string id="icmyseoo" text="Мой Лорд,"/>
     <string id="IcQ2doLo" text="x{QUANTITY}"/>
     <string id="id62me1x" text="Нажмите &quot;Осаждать&quot;"/>
-    <string id="IdUKVyoF" text="{HERO.FIRSTNAME} {JOB_NAME}"/>
     <string id="IF7zS5ia" text="Лимит пленников превышен.{newline}Временно ваши пленники останутся с вами, но через некоторое время они начнут быстро покидать отряд. вы также замедлитесь.{newline}Вы уверены?"/>
     <string id="iFg5N7r3" text="Одноручное Оружие"/>
     <string id="Igoid3sR" text="Предлагаю исключить этот клан из королевства"/>
@@ -887,7 +883,6 @@
     <string id="LZhRP3PM" text="Ждать других осадных машин"/>
     <string id="Lzmtqif5" text="Размер Армии "/>
     <string id="lznqF0oO" text="Расформирование"/>
-    <string id="M00MeRJD" text="Хлопок"/>
     <string id="M03MNN3T" text="Мерлон"/>
     <string id="M2b5mtAE" text="Спутник"/>
     <string id="m2YKBbdI" text="Привет, Маленькая потерянная овца. Мы волки в горах, и мы хотели бы на минутку..."/>
@@ -1588,14 +1583,14 @@
     <string id="dd7Owiys" text="Заключить мир с {FACTION}"/>
     <string id="empiremembers" text="Империя"/>
     <string id="ErnykQEH" text="Производит"/>
-    <string id="exhusbandbrotherinlaw" text="Former brother-in-law"/>
-    <string id="exhusbandfatherinlaw" text="Former father-in-law"/>
-    <string id="exhusbandmotherinlaw" text="Former mother-in-law"/>
-    <string id="exhusbandsisterinlaw" text="Former sister-in-law"/>
-    <string id="exwifebrotherinlaw" text="Former brother-in-law"/>
-    <string id="exwifefatherinlaw" text="Former father-in-law"/>
-    <string id="exwifemotherinlaw" text="Former mother-in-law"/>
-    <string id="exwifesisterinlaw" text="Former sister-in-law"/>
+    <string id="exhusbandbrotherinlaw" text="Бывший деверь"/>
+    <string id="exhusbandfatherinlaw" text="Бывший свёкр"/>
+    <string id="exhusbandmotherinlaw" text="Бывшая свекровь"/>
+    <string id="exhusbandsisterinlaw" text="Бывшая золовка"/>
+    <string id="exwifebrotherinlaw" text="Бывший шурин"/>
+    <string id="exwifefatherinlaw" text="Бывший тесть"/>
+    <string id="exwifemotherinlaw" text="Бывшая тёща"/>
+    <string id="exwifesisterinlaw" text="Бывшая свояченица"/>
     <string id="forgeverb" text="Ковка"/>
     <string id="fQ2RLaOa" text="Клан не владеет вотчиной"/>
     <string id="G5yvspkZ" text="Отступление не возможно, дуэль продолжается!"/>
@@ -1605,10 +1600,10 @@
     <string id="guardnoun" text="Охрана"/>
     <string id="homesettlement" text="Дом"/>
     <string id="hometab" text="Главная"/>
-    <string id="husbandbrotherinlaw" text="brother-in-law"/>
-    <string id="husbandfatherinlaw" text="father-in-law"/>
-    <string id="husbandmotherinlaw" text="mother-in-law"/>
-    <string id="husbandsisterinlaw" text="sister-in-law"/>
+    <string id="husbandbrotherinlaw" text="деверь"/>
+    <string id="husbandfatherinlaw" text="свёкр"/>
+    <string id="husbandmotherinlaw" text="свекровь"/>
+    <string id="husbandsisterinlaw" text="золовка"/>
     <string id="ioKwRFcj" text="Рассмотрите возможность заключения мира (Поддержка: {SUPPORT}%)"/>
     <string id="izKWEAbY" text="Клан не имеет дополнительных доходов"/>
     <string id="JAFIo7cM" text=":"/>
@@ -1620,7 +1615,6 @@
     <string id="NaAA5kjG" text="Попробуйте помириться, получая дань {TRIBUTE} в день. (Поддержка: {SUPPORT}%)"/>
     <string id="NbgeKwVr" text="Мастерские"/>
     <string id="oTGDxKW7" text="Объявить войну {FACTION}"/>
-    <string id="PCZ23wvW" text="Инженерия"/>
     <string id="policypropose" text="Предложить"/>
     <string id="PYaUEZzn" text="Рассмотрите возможность объявления войны (Поддержка: {SUPPORT}%)"/>
     <string id="rangedtroop" text="Дальнебойный"/>
@@ -1631,10 +1625,10 @@
     <string id="smithingverb" text="Кузнечное дело"/>
     <string id="tnZ7BfO9" text="Предложение мира"/>
     <string id="vqHDX6hf" text="+{BONUS_AMOUNT} повышение лояльности к поселению"/>
-    <string id="wifebrotherinlaw" text="brother-in-law"/>
-    <string id="wifefatherinlaw" text="father-in-law"/>
-    <string id="wifemotherinlaw" text="mother-in-law"/>
-    <string id="wifesisterinlaw" text="sister-in-law"/>
+    <string id="wifebrotherinlaw" text="шурин"/>
+    <string id="wifefatherinlaw" text="тесть"/>
+    <string id="wifemotherinlaw" text="тёща"/>
+    <string id="wifesisterinlaw" text="свояченица"/>
     <string id="XCz81XYm" text="Потребляет"/>
     <string id="XgioIHv6" text="Принять существующее решение"/>
     <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} и {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}возглавляют{?}возглавляет{\?} битву."/>
@@ -1655,9 +1649,18 @@
     <string id="lqm9PfF1" text="{?RULER.GENDER}Княгиня{?}Князь{\?} {RULER.NAME}"/>
     <string id="nAaT19CC" text="{?RULER.GENDER}Архонисса{?}Архонт{\?} {RULER.NAME}"/>
     <string id="nojcK4ia" text="{?RULER.GENDER}Великая принцесса{?}Великий князь{\?} {RULER.NAME}"/>
-    <string id="q6P6bdbC" text="Быстрый разговор"/>
     <string id="rGNrtXSx" text="Вы прибыли, чтобы защитить {SETTLEMENT} от нападавших."/>
     <string id="veiFupWz" text="{?RULER.GENDER}Баронесса{?}Барон{\?} {RULER.NAME}"/>
     <string id="X4qO3jBf" text="{?RULER.GENDER}Банмормэр{?}Мормэр{\?} {RULER.NAME}"/>
+    <string id="bh9U2fsZ" text="Son-in-law"/>
+    <string id="engineeringskill" text="Инженерия"/>
+    <string id="IQ4bSdf5" text="Sister-in-law"/>
+    <string id="owTlJjJc" text="Brother-in-law"/>
+    <string id="pMb8Pe12" text="Daughter-in-law"/>
+    <string id="toK51MD4" text="Visit"/>
+    <string id="U7etPQA2" text="{HERO.FIRSTNAME} the {JOB_NAME}"/>
+    <string id="uhcIXeba" text="You are discarding items. Are you sure?"/>
+    <string id="Vqu67a3b" text="Raw Silk"/>
+    <string id="zE6OFPRu" text="Settlement Tax"/>
   </strings>
 </base>
