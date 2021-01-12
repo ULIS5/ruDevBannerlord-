@@ -6,12 +6,13 @@
   <strings>
     <string id="03Q47XnC" text="Well now. I always like to know a bit about people before I kill them. Do you care to tell me your good name?" />
     <string id="1BZmK6EP" text="Well, now... Guess we'll be spilling each other's blood shortly. Anything on your mind, before we set to it?" />
+    <string id="1VBiVUBz" text="{STR_SALUTATION}... Allow me to introduce myself." />
+    <string id="2Uuwrvmw" text="{STR_SALUTATION}... Let me introduce myself." />
     <string id="2V0eF42T" text="{STR_SALUTATION}... So good to see you. It's been too long." />
     <string id="3bW5jWJ1" text="{STR_SALUTATION}... However much one may show oneself unworthy of trust, one should always have another chance to make amends. In this spirit, I shall listen to whatever you have to say." />
     <string id="3WtZ4AKa" text="I don't know you... If you have anything to say, say it quickly. The ravens are hungry and I would not keep them waiting." />
     <string id="43KLZl7D" text="{STR_SALUTATION}... If it comes down to a fight between you and me, well... I'll take no joy in it." />
     <string id="4j7uEWlA" text="{STR_SALUTATION}... I am at your service." />
-    <string id="4Lfz6ux4" text="{STR_SALUTATION}... It's been a while.." />
     <string id="4RbOYBQb" text="Halt. You want to tell me who you are, or shall we just have at it?" />
     <string id="4RMGcBuj" text="{STR_SALUTATION}... Peace to you... I am glad to see you." />
     <string id="5C1seeEM" text="Halt! Do you have anything to say, before I give the order to attack?" />
@@ -22,12 +23,12 @@
     <string id="8kCCsahd" text="{STR_SALUTATION}... I know your tricks, and you know mine. So, fight or parley, let's just get to it..." />
     <string id="97bAooa5" text="God.. Wine here tastes like piss. Right... So who're you?" />
     <string id="9emUaMsx" text="{STR_SALUTATION}... I'm at your service." />
-    <string id="9MZ1SaXt" text="Well... I don't believe we've met. Would you care to tell me your good name?" />
     <string id="9uQibOo8" text="I'm at your service, {STR_SALUTATION}." />
     <string id="A3eeOUZH" text="You know what I think of you. This better be important." />
     <string id="a67lBQad" text="Who are you? Answer quickly, before I give the order to attack." />
     <string id="aCFQOGye" text="{STR_SALUTATION}... I await your orders." />
     <string id="AFsNtnd8" text="{STR_SALUTATION}... At your service, as always." />
+    <string id="aGP9qTGp" text="{STR_SALUTATION}... I offer you my loyalty." />
     <string id="AoBIFXZH" text="{STR_SALUTATION}... Well, well. I am most curious to hear whatever it is you have to say." />
     <string id="aOkilS3H" text="Right. So who might you be, then?" />
     <string id="axO6JCWt" text="If you please... Stop there. I would ask you for your name." />
@@ -49,6 +50,7 @@
     <string id="dHxX40H0" text="Well. So I guess you and me are fighting. That's how fate goes. Anything to say?" />
     <string id="DwqTbXhg" text="Well... Unless I reckon the odds falsely, I'd say you have a very good chance of feasting with your ancestors before this day is through." />
     <string id="DXYVZbcz" text="{STR_SALUTATION}... Ready to give me a good fight?" />
+    <string id="Es1MRkbS" text="{STR_SALUTATION}... This is truly an honor. Let me introduce myself." />
     <string id="F1KEe2XG" text="Please be brief. I am pressed for time." />
     <string id="fQRGVkTL" text="Well, if it comes down to you and me, let's make it a fight that the bards will sing about, hey?" />
     <string id="G0qCtfK2" text="{STR_SALUTATION}... Such a pity we meet like this." />
@@ -62,6 +64,8 @@
     <string id="hAbpAkIw" text="{STR_SALUTATION}... I think your luck has run out." />
     <string id="hbvuSLB0" text="Well. Here we are. I once thought friendship was sacred, but all sacred things are profaned in the end. Don't think I won't kill you if I need to." />
     <string id="hW0ce7Nd" text="Welcome, stranger, to my little kingdom here. Who might you be?" />
+    <string id="Ia4zfagK" text="{STR_SALUTATION}... It's an honor to meet you." />
+    <string id="imbZKZIZ" text="{STR_SALUTATION}... It is my great honor to introduce myself to you." />
     <string id="iNYLG9P1" text="I am very angry with you. Too much time has gone by since last you visited." />
     <string id="IU3KjVbT" text="That's close enough. Who are you?" />
     <string id="j6p0K0s6" text="{STR_SALUTATION}. I'm yours to command." />
@@ -94,8 +98,10 @@
     <string id="oYskGouF" text="{STR_SALUTATION}... My heart is glad to see you." />
     <string id="p1CHHIFb" text="Forgive me for what may seem an abundance of caution, but please keep your distance. Just beyond sword-length is fine. So, who might you be?" />
     <string id="P3o4r7cB" text="What do you want, stranger? Who are you?" />
+    <string id="pbQjBNT3" text="{STR_SALUTATION}... May I introduce myself..." />
     <string id="PCLD3G3s" text="{STR_SALUTATION}... I'd wish you peace and prosperity, but of course I don't want that." />
     <string id="pf3LDFVp" text="Leave your sword in its scabbard for a moment longer, stranger. Who might you be?" />
+    <string id="pff33rZl" text="{STR_SALUTATION}. I am at your service." />
     <string id="PiaaXapn" text="{STR_SALUTATION}... It's very good to see you." />
     <string id="PihQGbui" text="{STR_SALUTATION}... I take no joy in fighting you, but believe me I will do it if I need to." />
     <string id="pm786w3d" text="Such a pleasant surprise to see you. I hope my men can find some fetters of silver or gold, worthy of your rank, as it appears you may be gracing us with your presence tonight." />
@@ -121,6 +127,7 @@
     <string id="vvkBHcAL" text="I don't know you. I suppose you should tell me your name." />
     <string id="vyeEx182" text="{STR_SALUTATION}... I don't want to have to fight you. But I will, friend, I will." />
     <string id="wAAdnzKD" text="Peace to you, stranger, though if you come any closer I may stick a knife in your belly, as one cannot be too careful these days." />
+    <string id="WACwhm8r" text="{STR_SALUTATION}! I am honored to meet you. Let me introduce myself." />
     <string id="WAK8lSaW" text="Well, good day to you. So who might you be?" />
     <string id="wIXmtKa5" text="What a pleasant surprise! I believe I'm going to enjoy this. Do you have anything to say, before I give the order to attack?" />
     <string id="wzhYA3XN" text="{STR_SALUTATION}... I don't know what we have to say to each other." />

@@ -5,11 +5,14 @@
   </tags>
   <strings>
     <string id="028iCb8B" text="Jythea" />
+    <string id="04dAbdjM" text="Nyvia" />
+    <string id="04zSjaRe" text="Nartiros" />
     <string id="074bIPbm" text="Llum" />
     <string id="0atYAnDF" text="Tulul" />
     <string id="0B27RrYJ" text="Battania" />
     <string id="0CQgia2a" text="Culharn" />
     <string id="0DgWpr8b" text="Dengul" />
+    <string id="0MJi7mre" text="Hyscasia" />
     <string id="0OFMT7AO" text="Rothard" />
     <string id="0VZ5sROI" text="Okhon" />
     <string id="0XEaaoah" text="Rosazia" />
@@ -36,6 +39,7 @@
     <string id="2oy7atk6" text="Lundana" />
     <string id="2s7Tb4NC" text="Fionara" />
     <string id="2Sn4uK35" text="Orgunda" />
+    <string id="2uKoNaSG" text="Denos" />
     <string id="38o99yqa" text="Borcha" />
     <string id="3apHdqU7" text="Ingchit" />
     <string id="3ipKaDWU" text="Natti" />
@@ -44,6 +48,7 @@
     <string id="3NRUkzaV" text="Yasugan" />
     <string id="3oeb8Bav" text="Jassid" />
     <string id="3pgwKPsf" text="Qarais" />
+    <string id="3RbayfTG" text="Ascytala" />
     <string id="3RBVn5yi" text="Zoros" />
     <string id="3rXHA6fI" text="Samar" />
     <string id="4833ZS9c" text="Aldusunit" />
@@ -119,6 +124,7 @@
     <string id="9HcXWNoh" text="Folc" />
     <string id="9I9ziX31" text="Vilatrud" />
     <string id="9l3RSCJp" text="Colsund" />
+    <string id="9mQuSI3c" text="Thucasys" />
     <string id="9pnUaj0g" text="Elyaksha" />
     <string id="9SJa91sZ" text="Marena" />
     <string id="9sokmYMZ" text="Padmos" />
@@ -140,10 +146,13 @@
     <string id="AcUEb8zX" text="Korot" />
     <string id="aDAJGO4y" text="Galthar" />
     <string id="AdK4Ilzw" text="Chalia" />
+    <string id="AEaRpupL" text="Ocheros" />
     <string id="aeLgc0cU" text="Acthon" />
     <string id="AeNqteUX" text="Zebales" />
     <string id="aezwJGvY" text="Chenon" />
     <string id="agn93v7y" text="Yorig" />
+    <string id="aH2ncPbK" text="Zalasos" />
+    <string id="am2UnbAK" text="Menor" />
     <string id="AMmJVlrt" text="Kyraslava" />
     <string id="Ao69q2aY" text="Pera" />
     <string id="aqd6QHES" text="Janab" />
@@ -177,6 +186,7 @@
     <string id="bHbR5Mgy" text="Losys" />
     <string id="bHh03ob0" text="Vakken" />
     <string id="bHTdXTwC" text="Alary" />
+    <string id="BIAEZaVx" text="Rhandana" />
     <string id="bm9surN9" text="Ubold" />
     <string id="bmHAYBwX" text="Catila" />
     <string id="bNj9gI2y" text="Astin" />
@@ -214,6 +224,7 @@
     <string id="CuocGtTq" text="Lestharos" />
     <string id="cv1QgU1H" text="Pazhel" />
     <string id="CvVJyKYA" text="Thelea" />
+    <string id="Cxazvjr3" text="Tamarea" />
     <string id="cxNCgqkI" text="Litka" />
     <string id="CXpnTfdk" text="Guldrimand" />
     <string id="CYxjotI2" text="fen Crusac" />
@@ -254,6 +265,7 @@
     <string id="empirefaction" text="Empire" />
     <string id="Emsd1xmS" text="Dhashwal" />
     <string id="eoF4TEr2" text="Daliset" />
+    <string id="eOHeCKxn" text="Jespara" />
     <string id="epxmhQav" text="Daria" />
     <string id="ESKeInbq" text="Aran" />
     <string id="EUQTT8so" text="Oshir" />
@@ -284,6 +296,7 @@
     <string id="FVl3D2qT" text="Meones" />
     <string id="FwcFIHfl" text="Sevelar" />
     <string id="fWKnmnXb" text="Taq" />
+    <string id="fXgftgNv" text="Aphanys" />
     <string id="fydMDGtL" text="Fercread" />
     <string id="fYN6Aawl" text="Kyraslav" />
     <string id="g7etVhSO" text="Sumessos" />
@@ -317,6 +330,7 @@
     <string id="hF3F3u8u" text="Duwain" />
     <string id="HfuAdGQX" text="Destor" />
     <string id="HMCZ2w9t" text="Anaheid" />
+    <string id="Ho6zsGTI" text="Sachanion" />
     <string id="HPrHkie6" text="Phenigos" />
     <string id="HSlPLC4m" text="Ira" />
     <string id="htJuLron" text="Varag" />
@@ -325,6 +339,7 @@
     <string id="hWKKCdeX" text="Mulum" />
     <string id="HxKE18yl" text="Lasvak" />
     <string id="hy7mIh48" text="Vidar" />
+    <string id="hyOgAehG" text="Emarys" />
     <string id="i9ZDrsi1" text="Rafard" />
     <string id="iaUQ9lt9" text="Ingalther" />
     <string id="IDeemU90" text="Roslind" />
@@ -334,6 +349,8 @@
     <string id="ig8zAo8f" text="Ori" />
     <string id="IHhWB1aa" text="Darshi" />
     <string id="iiGXfCWd" text="Menar" />
+    <string id="IJlw8V5D" text="Mystesa" />
+    <string id="iJvIH6NP" text="Jutheros" />
     <string id="IkTCwsB8" text="Col" />
     <string id="iltXQqgS" text="Turvald" />
     <string id="imBaF78b" text="Thuneikha" />
@@ -362,6 +379,7 @@
     <string id="jhT7CfhM" text="Aivar" />
     <string id="Jif1C3X3" text="Laria" />
     <string id="JJtww9pt" text="Aryush" />
+    <string id="jJV5Tn09" text="Tethyclesa" />
     <string id="jKviMpbP" text="Calradian" />
     <string id="jMPWSzAi" text="Loen" />
     <string id="jqaPJbpP" text="Urgil" />
@@ -397,6 +415,7 @@
     <string id="la6HgVXN" text="Mitunis" />
     <string id="lac74G8a" text="Agatheuda" />
     <string id="lB7b7N1b" text="Deven" />
+    <string id="lbTMVAcI" text="Lerosion" />
     <string id="lD1sl2XC" text="Camnon" />
     <string id="LE9mRhSs" text="Hespedia" />
     <string id="lEHtUGed" text="Diocosos" />
@@ -414,6 +433,7 @@
     <string id="LpLL0m3O" text="Arlech" />
     <string id="LZ2nBcdv" text="Lis" />
     <string id="M1ORaYny" text="Pol" />
+    <string id="M9CWBbMe" text="Rhanos" />
     <string id="M9gqEb6D" text="Radan" />
     <string id="m9ZgghCo" text="Abagai" />
     <string id="Ma855h44" text="Iona" />
@@ -440,6 +460,7 @@
     <string id="ncEWiljT" text="Rhia" />
     <string id="ncodEt9Q" text="Nokan" />
     <string id="NeFDHnOS" text="Mirim" />
+    <string id="NFIQZOPQ" text="Leosios" />
     <string id="NH6avjbc" text="Falsevor" />
     <string id="nhwnbFJ0" text="Ghalaza" />
     <string id="nisA6W98" text="Baheshtur" />
@@ -447,8 +468,10 @@
     <string id="NOchnEwX" text="Ghuzid" />
     <string id="nOJ9W5FE" text="Brunda" />
     <string id="NqhPOiMQ" text="Ulusumai" />
+    <string id="nqxxr9We" text="Gavalon" />
     <string id="nSoJkeBI" text="Sittacea" />
     <string id="nTYJWGAa" text="Shatha" />
+    <string id="NxDJcR2c" text="Haratheos" />
     <string id="NXOOJs2X" text="Patrys" />
     <string id="nyCtbjg6" text="Jamair" />
     <string id="OABjrV1T" text="Vyoshen" />
@@ -461,6 +484,7 @@
     <string id="oKeoaDcF" text="Garmund" />
     <string id="OL6fbZRY" text="Paltos" />
     <string id="OLLYkaWd" text="Asraloving" />
+    <string id="oQCZp9qv" text="Eumenys" />
     <string id="OQLPPwrL" text="Osea" />
     <string id="OqOnfdYv" text="Erigai" />
     <string id="ORJZJYt7" text="Churig" />
@@ -469,11 +493,13 @@
     <string id="oyxam3bN" text="Blag" />
     <string id="p0hcyZdp" text="Zenon" />
     <string id="p1dFvTAc" text="dey {ORIGIN_SETTLEMENT}" />
+    <string id="P1zsoSPN" text="Rhovarion" />
     <string id="p4BMhcsQ" text="Iara" />
     <string id="P7iNhhPl" text="Turiados" />
     <string id="pBUc2pL8" text="Sea Raiders" />
     <string id="pCBkH35Q" text="Danos" />
     <string id="PdK2pGIb" text="Yesha" />
+    <string id="PDK4FHAx" text="Suvys" />
     <string id="pDNlFlc0" text="Alcha" />
     <string id="pEvpjIa9" text="Bunduk" />
     <string id="pfAkvdYc" text="Gorgi" />
@@ -484,6 +510,7 @@
     <string id="PknomRIt" text="Madwan" />
     <string id="PlGiSfwr" text="Ylen" />
     <string id="plx8kkxa" text="Pelicos" />
+    <string id="PNR2CvvX" text="Ithicala" />
     <string id="ppmUUMY7" text="Sigatruda" />
     <string id="ppQbB9BH" text="fen Aertus" />
     <string id="pq0w8kry" text="Orachos" />
@@ -498,6 +525,7 @@
     <string id="pUvrTrHT" text="Gessios" />
     <string id="pVGKlS3W" text="Istiona" />
     <string id="PwflQ4dc" text="Brand" />
+    <string id="pXBvPxHI" text="Penestea" />
     <string id="Py1Jj5mB" text="Lorik" />
     <string id="q186AQHt" text="Phadon" />
     <string id="Q26RhEj6" text="Ifar" />
@@ -516,6 +544,7 @@
     <string id="QjJAbaoT" text="Apys" />
     <string id="qJprzW1N" text="Airit" />
     <string id="QJq4VAU7" text="Mesui" />
+    <string id="QNtdUfis" text="Vemioros" />
     <string id="qqW5n5Ox" text="Milos" />
     <string id="QR3aNalC" text="Imirza" />
     <string id="qrAEaydU" text="Orest" />
@@ -527,6 +556,7 @@
     <string id="Qx7ZfdbV" text="Quth" />
     <string id="QyXwJXIV" text="Andrasa" />
     <string id="r0dXXtoU" text="Kharid" />
+    <string id="R11i2uVl" text="Calytos" />
     <string id="r1RohnC6" text="Furcred" />
     <string id="R1yWuIzd" text="Melya" />
     <string id="r28vZDkN" text="Vara" />
@@ -567,6 +597,7 @@
     <string id="sDFb1PRI" text="Nortos" />
     <string id="SDSbjMSj" text="Kuruntai" />
     <string id="Se7U6BSK" text="Uluen" />
+    <string id="sEgUB3jW" text="Deasora" />
     <string id="sF0H1hEV" text="Halgard" />
     <string id="SFDdq8GH" text="Holujin" />
     <string id="SFybYZNK" text="Mengus" />
@@ -599,6 +630,8 @@
     <string id="tCTzsaIu" text="Muinser" />
     <string id="tCy0qwXp" text="Hikhara" />
     <string id="tDaWbJlY" text="Oranarit" />
+    <string id="tGhrpQ0D" text="Hyradia" />
+    <string id="tgVJZ1Uc" text="Hecaron" />
     <string id="tHtt3HCn" text="Pryndor" />
     <string id="TiJOjUi5" text="Valaos" />
     <string id="TjvbLQRT" text="Dachan" />
@@ -621,7 +654,7 @@
     <string id="Ub0awU1n" text="Ewyn" />
     <string id="UcteBSP6" text="Asi" />
     <string id="uCyAnus4" text="Zostios" />
-    <string id="Ud1AMybr" text="The Sturgians come from the northern woods, just south of the icy Byalic Sea. For centuries they lived an isolated existence in the dark forests, their numbers kept in check by the deadly winters. But as the Empire expanded to fill out the Calradian continent, traders ventured into the woods in search of honey, bog iron, and most of all fur. Great towns sprung up on the rivers, attracting fortune-seekers from the coast, the steppes, and the Nordlands. The princes and boyars of this land have now begun to turn their eyes outward, earning themselves for a reputation for their warlike approach to business and their businesslike approach to war." />
+    <string id="Ud1AMybr" text="The Sturgians come from the northern woods, just south of the icy Byalic Sea. For centuries they lived an isolated existence in the dark forests, their numbers kept in check by the deadly winters. But as the Empire expanded to fill out the Calradian continent, traders ventured into the woods in search of honey, bog iron, and most of all fur. Great towns sprung up on the network of bays and lakes that joined the Sturgian lands to the outside world, attracting fortune-seekers from the coast, the steppes, and the Nordlands. The princes and boyars of this land have now begun to turn their eyes outward, earning themselves for a reputation for their warlike approach to business and their businesslike approach to war." />
     <string id="ud6rhXbn" text="Mostiros" />
     <string id="uDlnsFIF" text="Urik" />
     <string id="uducgNbf" text="Chaghan" />
@@ -639,6 +672,7 @@
     <string id="V3QHxJb1" text="Polmarc" />
     <string id="v5bWtXj1" text="The tribes that live in the great sea of grass east of the Empire have many names: Nachaghan, Arkits, Khergits, Karakhergits. Outsiders, however, usually refer to them collectively as the Khuzaits, after the clan that in the last two generations forged them into a conquering army. When Urkhun the Great accepted the surrender of the trading cities on the edge of the steppe, he ordered his noyans to give up their wandering lifestyle. They were given fiefs and money to build fortresses, and encouraged to turn local farmers into their tenants. Yet the tribes of the Khuzait confederacy still retain many of their nomadic traditions, and felt yurt tents stand next to mud-brick towers in settlements that are half-village, half-encampment." />
     <string id="v7tfA4y6" text="Siyafan" />
+    <string id="v9B50R0Q" text="Acarion" />
     <string id="vAKB54zO" text="Arwa" />
     <string id="VaqB0x4K" text="Dranga" />
     <string id="vb2rv3OK" text="Una" />
@@ -647,8 +681,10 @@
     <string id="VG9ng2n2" text="Chandion" />
     <string id="vgBRa2BE" text="Poraclys" />
     <string id="VhbasI9J" text="Castor" />
+    <string id="VJbAdJe4" text="Purios" />
     <string id="vjeyAchh" text="Deragunda" />
     <string id="vl2tgsKa" text="Urkhun" />
+    <string id="VN1D1Qps" text="Velanor" />
     <string id="VP9hqkxO" text="Aedid" />
     <string id="vPlwv7Vj" text="Miloch" />
     <string id="VQYTvnfW" text="Durold" />
@@ -659,6 +695,7 @@
     <string id="VYWtQe8r" text="Varmond" />
     <string id="vz038vX7" text="Achita" />
     <string id="VzhbUL60" text="Vendelia" />
+    <string id="w*" text="Ucasios" />
     <string id="w1a9E7a9" text="Fiasyn" />
     <string id="W1uwgvAQ" text="Arion" />
     <string id="W1yur1cf" text="Khachin" />
@@ -678,6 +715,7 @@
     <string id="WNu6dKHe" text="Lliari" />
     <string id="WP63fA7r" text="Alkirya" />
     <string id="WpTXwQw1" text="Vuoni" />
+    <string id="wQJGxBJI" text="Hophtalamos" />
     <string id="WrAMfIG1" text="Phenoria" />
     <string id="wsCMwqFw" text="Peribard" />
     <string id="WTePYMNF" text="Zaraclys" />
@@ -722,6 +760,7 @@
     <string id="YEqDIbir" text="Oana" />
     <string id="YeQlI2Yj" text="Mizam" />
     <string id="yhCgI9ph" text="Magna" />
+    <string id="yhfJVEe0" text="Phelenos" />
     <string id="yhLbBk1D" text="Soroch" />
     <string id="YIpKt79X" text="Kusr" />
     <string id="yJz9AxjY" text="Rinana" />
