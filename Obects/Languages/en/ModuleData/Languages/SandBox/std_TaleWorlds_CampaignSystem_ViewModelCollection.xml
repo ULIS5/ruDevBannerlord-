@@ -39,6 +39,7 @@
     <string id="5fa36d2798479803b4518a64beb4d732" text="Weapon Length: " />
     <string id="5Unqsx3N" text="Confirm" />
     <string id="63Ic1Ahe" text="Cost: {UPGRADE_COST} (You don't have)" />
+    <string id="68IlDbA2" text="You need to have {PERK_NAME} perk to upgrade a bandit troop to a normal troop." />
     <string id="6adabc1f82216992571c3e22abc164d7" text="Ammo Limit: " />
     <string id="6GSXsdeX" text="Speed" />
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Speed: " />
@@ -67,6 +68,7 @@
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}" />
     <string id="AxRxT2Xj" text="Once a party is disbanded, it merges into a near clan party or goes to nearest map faction settlement and joins its garrison.\nYou will not be able to undo / cancel this action.\nAre you sure?" />
     <string id="bAqDnkaT" text="Missile Speed" />
+    <string id="Bcs9s2tC" text="Right Click to Remove" />
     <string id="bd7oAQq6" text="Daily" />
     <string id="bfQLwMUp" text="Clans" />
     <string id="BgqZWbga" text="The nobles of the realm will dislike you for abandoning your fealty. Are you sure you want to leave the Kingdom?" />
@@ -88,6 +90,7 @@
     <string id="CExQ40Ux" text="{PARTY_1S_MEMBERS}   " />
     <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Arm Armor: " />
     <string id="cJmI2poS" text="Info" />
+    <string id="Ck9HT8fQ" text="Summary" />
     <string id="cnmRwV4s" text="Ammo Limit" />
     <string id="CnsIzaWo" text="Field Battle" />
     <string id="cUUI8u2G" text="Smithy Stamina" />
@@ -104,7 +107,6 @@
     <string id="DXczLzml" text="Status" />
     <string id="DzviXC3W" text="Level" />
     <string id="e8390c3480028e34c370c7b60ebc41e2" text="Horse Type: " />
-    <string id="ebbyLN2i" text="Towns" />
     <string id="eHVq6yDa" text="Item Properties" />
     <string id="eIGFuGOx" text="Give Settlement" />
     <string id="eIws123Z" text="Leg Armor" />
@@ -116,6 +118,7 @@
     <string id="EuGCNdHG" text="Leave Kingdom" />
     <string id="exnL6SS7" text="Attacking {TARGET_SETTLEMENT}" />
     <string id="EZxQHBF4" text="You can change the production type of this workshop for {AMOUNT} denars." />
+    <string id="F0a7hyp0" text="Risk of rebellion" />
     <string id="f2971dc587a9777223ad2d7be236fb05" text="Trade Rumors" />
     <string id="f4nc7FfE" text="Upgrade to {UPGRADE_NAME}" />
     <string id="F6GhrriD" text="Create Kingdom" />
@@ -124,6 +127,7 @@
     <string id="FBYFcrWo" text="Leave in settlement" />
     <string id="fI7a7RoE" text="Inventory Capacity" />
     <string id="FjJi1DJb" text="This hero is already a part of an another party." />
+    <string id="flxDkoMh" text="Stage Complete" />
     <string id="fOSGakix" text="You cannot manage an army while you're a prisoner." />
     <string id="G2h0V10w" text="Gift this settlement to a clan in your kingdom." />
     <string id="g4XqKGUr" text="Party already has a member with this role." />
@@ -140,6 +144,7 @@
     <string id="HkfY3Ds5" text="Body Armor" />
     <string id="hn9TPqhK" text="Weapon Tier" />
     <string id="horseTier" text="Horse Tier: " />
+    <string id="hOVPiG3z" text="Recently rebelled" />
     <string id="hr4MuPnt" text="Required Materials" />
     <string id="hTzTMLsf" text="View Distance" />
     <string id="HURdAXDQ" text="Hideout Crew" />
@@ -193,6 +198,7 @@
     <string id="LVmkE2Ow" text="Battle Ready Troops" />
     <string id="lVuGCYPC" text="Smithing Skill" />
     <string id="lxwGbRwu" text="x {SHOP_DIFFERENCE_COUNT}" />
+    <string id="m1Yynagz" text="Page {NUMBER}" />
     <string id="McJjNM50" text="Cost: {UPGRADE_COST}" />
     <string id="mDFhzEMC" text="Max. Hit Points" />
     <string id="Mfbc4rQR" text="Charge Damage" />
@@ -208,6 +214,7 @@
     <string id="NC9bbrt5" text="End-of-day denars" />
     <string id="NcYbdiyT" text="Change Leader" />
     <string id="nMcvafHY" text="Active" />
+    <string id="NxEy5Nbt" text="High risk of rebellion" />
     <string id="nYYUQQm0" text="Swing Damage Factor " />
     <string id="O3dhjtOS" text="Head Armor" />
     <string id="oBbiVeKE" text="Hit Points" />
@@ -271,6 +278,7 @@
     <string id="RuaA8t97" text="Kingdom Name" />
     <string id="rUeWBOOi" text="Select an item to smelt" />
     <string id="RVPidk5a" text="Influence" />
+    <string id="Rvr1bcu8" text="Next" />
     <string id="rwKBR4NE" text="Average Days Until Food Runs Out" />
     <string id="s31DnnAf" text="Damage" />
     <string id="s5b77f0H" text="Add +{BOOSTAMOUNT} cohesion to your army" />
@@ -326,6 +334,7 @@
     <string id="Wir2xZIg" text="You haven't unlocked some of the selected pieces." />
     <string id="WN7cYIXM" text="You need to be a part of a kingdom" />
     <string id="WttsvMTW" text="{SETTLEMENT}'s Rebellion" />
+    <string id="WXAaWZVf" text="Previous" />
     <string id="XAL3t1bs" text="Going to a point" />
     <string id="XCz81XYm" text="Inputs" />
     <string id="XIioBPi0" text="No changes" />

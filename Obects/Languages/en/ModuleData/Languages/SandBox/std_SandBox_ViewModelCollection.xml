@@ -38,6 +38,8 @@
     <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT}w" />
     <string id="oBbiVeKE" text="Hit Points" />
     <string id="ol0rBSrb" text="{STR1}{newline}{STR2}" />
+    <string id="onLDP7mP" text="A problem occured while trying to load the saved game." />
+    <string id="oZrVNUOk" text="Error" />
     <string id="Q1HIlJxe" text="Overwrite" />
     <string id="QHV8aeEg" text="Delete Save" />
     <string id="qIeDZoSx" text="Purchased" />

@@ -61,7 +61,6 @@
     <string id="4aFPp5hj" text="Light Oval Shield" />
     <string id="4BfbPgkY" text="Nasal Cervelliere Over Padded Cap" />
     <string id="4CPxahsU" text="Eastern Cavalry Mace" />
-    <string id="4DiJ8dfj" text="Western Bastard Axe" />
     <string id="4gNT4MYk" text="Hunting Arrow" />
     <string id="4KYF5iCd" text="Layered Leather Tunic" />
     <string id="4n6n3KL7" text="Desert Headdress" />
@@ -267,6 +266,7 @@
     <string id="GNdVXMue" text="Scarf" />
     <string id="Goloz0Vm" text="Husnphree" />
     <string id="gqbjCBld" text="Northern Throwing Axe" />
+    <string id="GrfnpDxu" text="Highland Throwing Axe" />
     <string id="gT8WENO3" text="Dummy Higher Average" />
     <string id="gTptIfxY" text="Desert Cap" />
     <string id="GTWUtUFj" text="Chain Horse Harness" />
@@ -466,6 +466,7 @@
     <string id="q4iQapMS" text="Highland Rider's Shield" />
     <string id="Q50hfNjW" text="Thinhide Coif" />
     <string id="QaKohN0V" text="Imperial Mail Over Stripped Leather" />
+    <string id="QArSPrAV" text="Northern Kite Shield" />
     <string id="QaysED62" text="Tunic With Rolled Cloth" />
     <string id="Qazvdg1P" text="Imperial Cloth Coif" />
     <string id="qc0P0b2r" text="Goggled Helmet Over Mail" />
@@ -491,7 +492,6 @@
     <string id="radJHwRW" text="Heavy Horseman's Kite Shield" />
     <string id="RCq6DcvS" text="Northern Long Spear" />
     <string id="RF7uVEGp" text="Bamboo Spear" />
-    <string id="rifv0h0H" text="Northern Cavalry Kite Shield" />
     <string id="rOpxDHXL" text="Eastern Leather Lamellar Armor" />
     <string id="RsIImqXA" text="Eastern Infantry Club" />
     <string id="RTIzskq1" text="Lendman Helmet Over Full Mail" />
@@ -600,7 +600,7 @@
     <string id="whvMZZba" text="Guarded Padded Vambrace" />
     <string id="WiPJqTXv" text="Closed Desert Helmet" />
     <string id="wKucIANJ" text="Leather Coat Over Cloth" />
-    <string id="wltdyF2j" text="Hunting Bow" />
+    <string id="wltdyF2j" text="Fast Hunting Bow" />
     <string id="WMqHlEvb" text="Segmented Cevelliere Over Mail Coif" />
     <string id="Wo5RbJia" text="Highland Woodland Cloak" />
     <string id="WOzcBg62" text="Reinforced Northern Fish Harpoon" />
@@ -669,6 +669,7 @@
     <string id="ZFETxZKP" text="Kefiyyeh With Silken Band" />
     <string id="zGXZJFOb" text="Lamellar With Scale Skirt" />
     <string id="ZjAZNjvu" text="Northern Ring Barding" />
+    <string id="ZJweh5Oh" text="Bastard Axe" />
     <string id="zKJtr0MV" text="Makeb Horse" />
     <string id="zmEnxUpL" text="Imperial Scale Barding" />
     <string id="zNoDVcHg" text="Trotter" />
